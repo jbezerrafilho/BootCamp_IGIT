@@ -1,19 +1,21 @@
-window.addEventListener('load', function() {
-  const timer = document.querySelector('#timer');
-  let count = 0;
+window.addEventListener('load', () => {
+const div = document.querySelector("#timer")
 
-  const interval = setInterval(() => {
-    timer.textContent = ++count;
+let count = 0
 
-    if (count === 10) {
-      this.clearInterval(interval);
-      return;
-    }
+const interval = setInterval(() => {
+  timer.textContent = ++count
 
-    if (count % 5 === 0) {
-      setTimeout(() => {
-        timer.textContent = count + ',5';
-      }, 500);
-    }
-  }, 1000);
-});
+  if (count === 10) {
+    this.clearInterval(interval)
+    return
+  }
+
+  if (count % 5 === 0) {
+    setTimeout(() => {
+      timer.textContent = `${count}` + ',5'
+    }, 500);
+  }
+}, 1000);
+
+})
