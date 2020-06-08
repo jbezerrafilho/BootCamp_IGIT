@@ -1,0 +1,3970 @@
+[
+  {
+    "id": "3850",
+    "nameCity": "Aceguá",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3851",
+    "nameCity": "Água Santa",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3852",
+    "nameCity": "Agudo",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3853",
+    "nameCity": "Ajuricaba",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3854",
+    "nameCity": "Alecrim",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3855",
+    "nameCity": "Alegrete",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3856",
+    "nameCity": "Alegria",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3857",
+    "nameCity": "Almirante Tamandaré do Sul",
+    "quantityLetters": 26,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3858",
+    "nameCity": "Alpestre",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3859",
+    "nameCity": "Alto Alegre",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3860",
+    "nameCity": "Alto Feliz",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3861",
+    "nameCity": "Alvorada",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3862",
+    "nameCity": "Amaral Ferrador",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3863",
+    "nameCity": "Ametista do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3864",
+    "nameCity": "André da Rocha",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3865",
+    "nameCity": "Anta Gorda",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3866",
+    "nameCity": "Antônio Prado",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3867",
+    "nameCity": "Arambaré",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3868",
+    "nameCity": "Araricá",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3869",
+    "nameCity": "Aratiba",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3870",
+    "nameCity": "Arroio do Meio",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3871",
+    "nameCity": "Arroio do Padre",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3872",
+    "nameCity": "Arroio do Sal",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3873",
+    "nameCity": "Arroio do Tigre",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3874",
+    "nameCity": "Arroio dos Ratos",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3875",
+    "nameCity": "Arroio Grande",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3876",
+    "nameCity": "Arvorezinha",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3877",
+    "nameCity": "Augusto Pestana",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3878",
+    "nameCity": "Áurea",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3879",
+    "nameCity": "Bagé",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3880",
+    "nameCity": "Balneário Pinhal",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3881",
+    "nameCity": "Barão",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3882",
+    "nameCity": "Barão de Cotegipe",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3883",
+    "nameCity": "Barão do Triunfo",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3884",
+    "nameCity": "Barra do Guarita",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3885",
+    "nameCity": "Barra do Quaraí",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3886",
+    "nameCity": "Barra do Ribeiro",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3887",
+    "nameCity": "Barra do Rio Azul",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3888",
+    "nameCity": "Barra Funda",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3889",
+    "nameCity": "Barracão",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3890",
+    "nameCity": "Barros Cassal",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3891",
+    "nameCity": "Benjamin Constant do Sul",
+    "quantityLetters": 24,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3892",
+    "nameCity": "Bento Gonçalves",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3893",
+    "nameCity": "Boa Vista das Missões",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3894",
+    "nameCity": "Boa Vista do Buricá",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3895",
+    "nameCity": "Boa Vista do Cadeado",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3896",
+    "nameCity": "Boa Vista do Incra",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3897",
+    "nameCity": "Boa Vista do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3898",
+    "nameCity": "Bom Jesus",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3899",
+    "nameCity": "Bom Princípio",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3900",
+    "nameCity": "Bom Progresso",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3901",
+    "nameCity": "Bom Retiro do Sul",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3902",
+    "nameCity": "Boqueirão do Leão",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3903",
+    "nameCity": "Bossoroca",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3904",
+    "nameCity": "Bozano",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3905",
+    "nameCity": "Braga",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3906",
+    "nameCity": "Brochier",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3907",
+    "nameCity": "Butiá",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3908",
+    "nameCity": "Caçapava do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3909",
+    "nameCity": "Cacequi",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3910",
+    "nameCity": "Cachoeira do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3911",
+    "nameCity": "Cachoeirinha",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3912",
+    "nameCity": "Cacique Doble",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3913",
+    "nameCity": "Caibaté",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3914",
+    "nameCity": "Caiçara",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3915",
+    "nameCity": "Camaquã",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3916",
+    "nameCity": "Camargo",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3917",
+    "nameCity": "Cambará do Sul",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3918",
+    "nameCity": "Campestre da Serra",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3919",
+    "nameCity": "Campina das Missões",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3920",
+    "nameCity": "Campinas do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3921",
+    "nameCity": "Campo Bom",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3922",
+    "nameCity": "Campo Novo",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3923",
+    "nameCity": "Campos Borges",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3924",
+    "nameCity": "Candelária",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3925",
+    "nameCity": "Cândido Godói",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3926",
+    "nameCity": "Candiota",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3927",
+    "nameCity": "Canela",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3928",
+    "nameCity": "Canguçu",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3929",
+    "nameCity": "Canoas",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3930",
+    "nameCity": "Canudos do Vale",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3931",
+    "nameCity": "Capão Bonito do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3932",
+    "nameCity": "Capão da Canoa",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3933",
+    "nameCity": "Capão do Cipó",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3934",
+    "nameCity": "Capão do Leão",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3935",
+    "nameCity": "Capela de Santana",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3936",
+    "nameCity": "Capitão",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3937",
+    "nameCity": "Capivari do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3938",
+    "nameCity": "Caraá",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3939",
+    "nameCity": "Carazinho",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3940",
+    "nameCity": "Carlos Barbosa",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3941",
+    "nameCity": "Carlos Gomes",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3942",
+    "nameCity": "Casca",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3943",
+    "nameCity": "Caseiros",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3944",
+    "nameCity": "Catuípe",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3945",
+    "nameCity": "Caxias do Sul",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3946",
+    "nameCity": "Centenário",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3947",
+    "nameCity": "Cerrito",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3948",
+    "nameCity": "Cerro Branco",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3949",
+    "nameCity": "Cerro Grande",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3950",
+    "nameCity": "Cerro Grande do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3951",
+    "nameCity": "Cerro Largo",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3952",
+    "nameCity": "Chapada",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3953",
+    "nameCity": "Charqueadas",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3954",
+    "nameCity": "Charrua",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3955",
+    "nameCity": "Chiapeta",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3956",
+    "nameCity": "Chuí",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3957",
+    "nameCity": "Chuvisca",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3958",
+    "nameCity": "Cidreira",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3959",
+    "nameCity": "Ciríaco",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3960",
+    "nameCity": "Colinas",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3961",
+    "nameCity": "Colorado",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3962",
+    "nameCity": "Condor",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3963",
+    "nameCity": "Constantina",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3964",
+    "nameCity": "Coqueiro Baixo",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3965",
+    "nameCity": "Coqueiros do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3966",
+    "nameCity": "Coronel Barros",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3967",
+    "nameCity": "Coronel Bicaco",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3968",
+    "nameCity": "Coronel Pilar",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3969",
+    "nameCity": "Cotiporã",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3970",
+    "nameCity": "Coxilha",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3971",
+    "nameCity": "Crissiumal",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3972",
+    "nameCity": "Cristal",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3973",
+    "nameCity": "Cristal do Sul",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3974",
+    "nameCity": "Cruz Alta",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3975",
+    "nameCity": "Cruzaltense",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3976",
+    "nameCity": "Cruzeiro do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3977",
+    "nameCity": "David Canabarro",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3978",
+    "nameCity": "Derrubadas",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3979",
+    "nameCity": "Dezesseis de Novembro",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3980",
+    "nameCity": "Dilermando de Aguiar",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3981",
+    "nameCity": "Dois Irmãos",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3982",
+    "nameCity": "Dois Irmãos das Missões",
+    "quantityLetters": 23,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3983",
+    "nameCity": "Dois Lajeados",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3984",
+    "nameCity": "Dom Feliciano",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3985",
+    "nameCity": "Dom Pedrito",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3986",
+    "nameCity": "Dom Pedro de Alcântara",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3987",
+    "nameCity": "Dona Francisca",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3988",
+    "nameCity": "Doutor Maurício Cardoso",
+    "quantityLetters": 23,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3989",
+    "nameCity": "Doutor Ricardo",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3990",
+    "nameCity": "Eldorado do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3991",
+    "nameCity": "Encantado",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3992",
+    "nameCity": "Encruzilhada do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3993",
+    "nameCity": "Engenho Velho",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3994",
+    "nameCity": "Entre Rios do Sul",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3995",
+    "nameCity": "Entre-Ijuís",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3996",
+    "nameCity": "Erebango",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3997",
+    "nameCity": "Erechim",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3998",
+    "nameCity": "Ernestina",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "3999",
+    "nameCity": "Erval Grande",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4000",
+    "nameCity": "Erval Seco",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4001",
+    "nameCity": "Esmeralda",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4002",
+    "nameCity": "Esperança do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4003",
+    "nameCity": "Espumoso",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4004",
+    "nameCity": "Estação",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4005",
+    "nameCity": "Estância Velha",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4006",
+    "nameCity": "Esteio",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4007",
+    "nameCity": "Estrela",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4008",
+    "nameCity": "Estrela Velha",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4009",
+    "nameCity": "Eugênio de Castro",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4010",
+    "nameCity": "Fagundes Varela",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4011",
+    "nameCity": "Farroupilha",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4012",
+    "nameCity": "Faxinal do Soturno",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4013",
+    "nameCity": "Faxinalzinho",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4014",
+    "nameCity": "Fazenda Vilanova",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4015",
+    "nameCity": "Feliz",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4016",
+    "nameCity": "Flores da Cunha",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4017",
+    "nameCity": "Floriano Peixoto",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4018",
+    "nameCity": "Fontoura Xavier",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4019",
+    "nameCity": "Formigueiro",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4020",
+    "nameCity": "Forquetinha",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4021",
+    "nameCity": "Fortaleza dos Valos",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4022",
+    "nameCity": "Frederico Westphalen",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4023",
+    "nameCity": "Garibaldi",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4024",
+    "nameCity": "Garruchos",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4025",
+    "nameCity": "Gaurama",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4026",
+    "nameCity": "General Câmara",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4027",
+    "nameCity": "Gentil",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4028",
+    "nameCity": "Getúlio Vargas",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4029",
+    "nameCity": "Giruá",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4030",
+    "nameCity": "Glorinha",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4031",
+    "nameCity": "Gramado",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4032",
+    "nameCity": "Gramado dos Loureiros",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4033",
+    "nameCity": "Gramado Xavier",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4034",
+    "nameCity": "Gravataí",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4035",
+    "nameCity": "Guabiju",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4036",
+    "nameCity": "Guaíba",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4037",
+    "nameCity": "Guaporé",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4038",
+    "nameCity": "Guarani das Missões",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4039",
+    "nameCity": "Harmonia",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4040",
+    "nameCity": "Herval",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4041",
+    "nameCity": "Herveiras",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4042",
+    "nameCity": "Horizontina",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4043",
+    "nameCity": "Hulha Negra",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4044",
+    "nameCity": "Humaitá",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4045",
+    "nameCity": "Ibarama",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4046",
+    "nameCity": "Ibiaçá",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4047",
+    "nameCity": "Ibiraiaras",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4048",
+    "nameCity": "Ibirapuitã",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4049",
+    "nameCity": "Ibirubá",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4050",
+    "nameCity": "Igrejinha",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4051",
+    "nameCity": "Ijuí",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4052",
+    "nameCity": "Ilópolis",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4053",
+    "nameCity": "Imbé",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4054",
+    "nameCity": "Imigrante",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4055",
+    "nameCity": "Independência",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4056",
+    "nameCity": "Inhacorá",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4057",
+    "nameCity": "Ipê",
+    "quantityLetters": 3,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4058",
+    "nameCity": "Ipiranga do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4059",
+    "nameCity": "Iraí",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4060",
+    "nameCity": "Itaara",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4061",
+    "nameCity": "Itacurubi",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4062",
+    "nameCity": "Itapuca",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4063",
+    "nameCity": "Itaqui",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4064",
+    "nameCity": "Itati",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4065",
+    "nameCity": "Itatiba do Sul",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4066",
+    "nameCity": "Ivorá",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4067",
+    "nameCity": "Ivoti",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4068",
+    "nameCity": "Jaboticaba",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4069",
+    "nameCity": "Jacuizinho",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4070",
+    "nameCity": "Jacutinga",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4071",
+    "nameCity": "Jaguarão",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4072",
+    "nameCity": "Jaguari",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4073",
+    "nameCity": "Jaquirana",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4074",
+    "nameCity": "Jari",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4075",
+    "nameCity": "Jóia",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4076",
+    "nameCity": "Júlio de Castilhos",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4077",
+    "nameCity": "Lagoa Bonita do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4078",
+    "nameCity": "Lagoa dos Três Cantos",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4079",
+    "nameCity": "Lagoa Vermelha",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4080",
+    "nameCity": "Lagoão",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4081",
+    "nameCity": "Lajeado",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4082",
+    "nameCity": "Lajeado do Bugre",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4083",
+    "nameCity": "Lavras do Sul",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4084",
+    "nameCity": "Liberato Salzano",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4085",
+    "nameCity": "Lindolfo Collor",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4086",
+    "nameCity": "Linha Nova",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4087",
+    "nameCity": "Maçambara",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4088",
+    "nameCity": "Machadinho",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4089",
+    "nameCity": "Mampituba",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4090",
+    "nameCity": "Manoel Viana",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4091",
+    "nameCity": "Maquiné",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4092",
+    "nameCity": "Maratá",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4093",
+    "nameCity": "Marau",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4094",
+    "nameCity": "Marcelino Ramos",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4095",
+    "nameCity": "Mariana Pimentel",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4096",
+    "nameCity": "Mariano Moro",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4097",
+    "nameCity": "Marques de Souza",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4098",
+    "nameCity": "Mata",
+    "quantityLetters": 4,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4099",
+    "nameCity": "Mato Castelhano",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4100",
+    "nameCity": "Mato Leitão",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4101",
+    "nameCity": "Mato Queimado",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4102",
+    "nameCity": "Maximiliano de Almeida",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4103",
+    "nameCity": "Minas do Leão",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4104",
+    "nameCity": "Miraguaí",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4105",
+    "nameCity": "Montauri",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4106",
+    "nameCity": "Monte Alegre dos Campos",
+    "quantityLetters": 23,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4107",
+    "nameCity": "Monte Belo do Sul",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4108",
+    "nameCity": "Montenegro",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4109",
+    "nameCity": "Mormaço",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4110",
+    "nameCity": "Morrinhos do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4111",
+    "nameCity": "Morro Redondo",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4112",
+    "nameCity": "Morro Reuter",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4113",
+    "nameCity": "Mostardas",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4114",
+    "nameCity": "Muçum",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4115",
+    "nameCity": "Muitos Capões",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4116",
+    "nameCity": "Muliterno",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4117",
+    "nameCity": "Não-Me-Toque",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4118",
+    "nameCity": "Nicolau Vergueiro",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4119",
+    "nameCity": "Nonoai",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4120",
+    "nameCity": "Nova Alvorada",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4121",
+    "nameCity": "Nova Araçá",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4122",
+    "nameCity": "Nova Bassano",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4123",
+    "nameCity": "Nova Boa Vista",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4124",
+    "nameCity": "Nova Bréscia",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4125",
+    "nameCity": "Nova Candelária",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4126",
+    "nameCity": "Nova Esperança do Sul",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4127",
+    "nameCity": "Nova Hartz",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4128",
+    "nameCity": "Nova Pádua",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4129",
+    "nameCity": "Nova Palma",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4130",
+    "nameCity": "Nova Petrópolis",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4131",
+    "nameCity": "Nova Prata",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4132",
+    "nameCity": "Nova Ramada",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4133",
+    "nameCity": "Nova Roma do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4134",
+    "nameCity": "Nova Santa Rita",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4135",
+    "nameCity": "Novo Barreiro",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4136",
+    "nameCity": "Novo Cabrais",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4137",
+    "nameCity": "Novo Hamburgo",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4138",
+    "nameCity": "Novo Machado",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4139",
+    "nameCity": "Novo Tiradentes",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4140",
+    "nameCity": "Novo Xingu",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4141",
+    "nameCity": "Osório",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4142",
+    "nameCity": "Paim Filho",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4143",
+    "nameCity": "Palmares do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4144",
+    "nameCity": "Palmeira das Missões",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4145",
+    "nameCity": "Palmitinho",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4146",
+    "nameCity": "Panambi",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4147",
+    "nameCity": "Pantano Grande",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4148",
+    "nameCity": "Paraí",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4149",
+    "nameCity": "Paraíso do Sul",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4150",
+    "nameCity": "Pareci Novo",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4151",
+    "nameCity": "Parobé",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4152",
+    "nameCity": "Passa Sete",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4153",
+    "nameCity": "Passo do Sobrado",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4154",
+    "nameCity": "Passo Fundo",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4155",
+    "nameCity": "Paulo Bento",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4156",
+    "nameCity": "Paverama",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4157",
+    "nameCity": "Pedras Altas",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4158",
+    "nameCity": "Pedro Osório",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4159",
+    "nameCity": "Pejuçara",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4160",
+    "nameCity": "Pelotas",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4161",
+    "nameCity": "Picada Café",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4162",
+    "nameCity": "Pinhal",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4163",
+    "nameCity": "Pinhal da Serra",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4164",
+    "nameCity": "Pinhal Grande",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4165",
+    "nameCity": "Pinheirinho do Vale",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4166",
+    "nameCity": "Pinheiro Machado",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4167",
+    "nameCity": "Pirapó",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4168",
+    "nameCity": "Piratini",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4169",
+    "nameCity": "Planalto",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4170",
+    "nameCity": "Poço das Antas",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4171",
+    "nameCity": "Pontão",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4172",
+    "nameCity": "Ponte Preta",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4173",
+    "nameCity": "Portão",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4174",
+    "nameCity": "Porto Alegre",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4175",
+    "nameCity": "Porto Lucena",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4176",
+    "nameCity": "Porto Mauá",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4177",
+    "nameCity": "Porto Vera Cruz",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4178",
+    "nameCity": "Porto Xavier",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4179",
+    "nameCity": "Pouso Novo",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4180",
+    "nameCity": "Presidente Lucena",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4181",
+    "nameCity": "Progresso",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4182",
+    "nameCity": "Protásio Alves",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4183",
+    "nameCity": "Putinga",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4184",
+    "nameCity": "Quaraí",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4185",
+    "nameCity": "Quatro Irmãos",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4186",
+    "nameCity": "Quevedos",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4187",
+    "nameCity": "Quinze de Novembro",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4188",
+    "nameCity": "Redentora",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4189",
+    "nameCity": "Relvado",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4190",
+    "nameCity": "Restinga Seca",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4191",
+    "nameCity": "Rio dos Índios",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4192",
+    "nameCity": "Rio Grande",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4193",
+    "nameCity": "Rio Pardo",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4194",
+    "nameCity": "Riozinho",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4195",
+    "nameCity": "Roca Sales",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4196",
+    "nameCity": "Rodeio Bonito",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4197",
+    "nameCity": "Rolador",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4198",
+    "nameCity": "Rolante",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4199",
+    "nameCity": "Ronda Alta",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4200",
+    "nameCity": "Rondinha",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4201",
+    "nameCity": "Roque Gonzales",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4202",
+    "nameCity": "Rosário do Sul",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4203",
+    "nameCity": "Sagrada Família",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4204",
+    "nameCity": "Saldanha Marinho",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4205",
+    "nameCity": "Salto do Jacuí",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4206",
+    "nameCity": "Salvador das Missões",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4207",
+    "nameCity": "Salvador do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4208",
+    "nameCity": "Sananduva",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4209",
+    "nameCity": "Santa Bárbara do Sul",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4210",
+    "nameCity": "Santa Cecília do Sul",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4211",
+    "nameCity": "Santa Clara do Sul",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4212",
+    "nameCity": "Santa Cruz do Sul",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4213",
+    "nameCity": "Santa Margarida do Sul",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4214",
+    "nameCity": "Santa Maria",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4215",
+    "nameCity": "Santa Maria do Herval",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4216",
+    "nameCity": "Santa Rosa",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4217",
+    "nameCity": "Santa Tereza",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4218",
+    "nameCity": "Santa Vitória do Palmar",
+    "quantityLetters": 23,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4219",
+    "nameCity": "Santana da Boa Vista",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4220",
+    "nameCity": "Santana do Livramento",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4221",
+    "nameCity": "Santiago",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4222",
+    "nameCity": "Santo Ângelo",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4223",
+    "nameCity": "Santo Antônio da Patrulha",
+    "quantityLetters": 25,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4224",
+    "nameCity": "Santo Antônio das Missões",
+    "quantityLetters": 25,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4225",
+    "nameCity": "Santo Antônio do Palma",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4226",
+    "nameCity": "Santo Antônio do Planalto",
+    "quantityLetters": 25,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4227",
+    "nameCity": "Santo Augusto",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4228",
+    "nameCity": "Santo Cristo",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4229",
+    "nameCity": "Santo Expedito do Sul",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4230",
+    "nameCity": "São Borja",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4231",
+    "nameCity": "São Domingos do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4232",
+    "nameCity": "São Francisco de Assis",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4233",
+    "nameCity": "São Francisco de Paula",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4234",
+    "nameCity": "São Gabriel",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4235",
+    "nameCity": "São Jerônimo",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4236",
+    "nameCity": "São João da Urtiga",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4237",
+    "nameCity": "São João do Polêsine",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4238",
+    "nameCity": "São Jorge",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4239",
+    "nameCity": "São José das Missões",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4240",
+    "nameCity": "São José do Herval",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4241",
+    "nameCity": "São José do Hortêncio",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4242",
+    "nameCity": "São José do Inhacorá",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4243",
+    "nameCity": "São José do Norte",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4244",
+    "nameCity": "São José do Ouro",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4245",
+    "nameCity": "São José do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4246",
+    "nameCity": "São José dos Ausentes",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4247",
+    "nameCity": "São Leopoldo",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4248",
+    "nameCity": "São Lourenço do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4249",
+    "nameCity": "São Luiz Gonzaga",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4250",
+    "nameCity": "São Marcos",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4251",
+    "nameCity": "São Martinho",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4252",
+    "nameCity": "São Martinho da Serra",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4253",
+    "nameCity": "São Miguel das Missões",
+    "quantityLetters": 22,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4254",
+    "nameCity": "São Nicolau",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4255",
+    "nameCity": "São Paulo das Missões",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4256",
+    "nameCity": "São Pedro da Serra",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4257",
+    "nameCity": "São Pedro das Missões",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4258",
+    "nameCity": "São Pedro do Butiá",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4259",
+    "nameCity": "São Pedro do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4260",
+    "nameCity": "São Sebastião do Caí",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4261",
+    "nameCity": "São Sepé",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4262",
+    "nameCity": "São Valentim",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4263",
+    "nameCity": "São Valentim do Sul",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4264",
+    "nameCity": "São Valério do Sul",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4265",
+    "nameCity": "São Vendelino",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4266",
+    "nameCity": "São Vicente do Sul",
+    "quantityLetters": 18,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4267",
+    "nameCity": "Sapiranga",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4268",
+    "nameCity": "Sapucaia do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4269",
+    "nameCity": "Sarandi",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4270",
+    "nameCity": "Seberi",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4271",
+    "nameCity": "Sede Nova",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4272",
+    "nameCity": "Segredo",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4273",
+    "nameCity": "Selbach",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4274",
+    "nameCity": "Senador Salgado Filho",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4275",
+    "nameCity": "Sentinela do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4276",
+    "nameCity": "Serafina Corrêa",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4277",
+    "nameCity": "Sério",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4278",
+    "nameCity": "Sertão",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4279",
+    "nameCity": "Sertão Santana",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4280",
+    "nameCity": "Sete de Setembro",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4281",
+    "nameCity": "Severiano de Almeida",
+    "quantityLetters": 20,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4282",
+    "nameCity": "Silveira Martins",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4283",
+    "nameCity": "Sinimbu",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4284",
+    "nameCity": "Sobradinho",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4285",
+    "nameCity": "Soledade",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4286",
+    "nameCity": "Tabaí",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4287",
+    "nameCity": "Tapejara",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4288",
+    "nameCity": "Tapera",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4289",
+    "nameCity": "Tapes",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4290",
+    "nameCity": "Taquara",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4291",
+    "nameCity": "Taquari",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4292",
+    "nameCity": "Taquaruçu do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4293",
+    "nameCity": "Tavares",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4294",
+    "nameCity": "Tenente Portela",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4295",
+    "nameCity": "Terra de Areia",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4296",
+    "nameCity": "Teutônia",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4297",
+    "nameCity": "Tio Hugo",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4298",
+    "nameCity": "Tiradentes do Sul",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4299",
+    "nameCity": "Toropi",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4300",
+    "nameCity": "Torres",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4301",
+    "nameCity": "Tramandaí",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4302",
+    "nameCity": "Travesseiro",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4303",
+    "nameCity": "Três Arroios",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4304",
+    "nameCity": "Três Cachoeiras",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4305",
+    "nameCity": "Três Coroas",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4306",
+    "nameCity": "Três de Maio",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4307",
+    "nameCity": "Três Forquilhas",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4308",
+    "nameCity": "Três Palmeiras",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4309",
+    "nameCity": "Três Passos",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4310",
+    "nameCity": "Trindade do Sul",
+    "quantityLetters": 15,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4311",
+    "nameCity": "Triunfo",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4312",
+    "nameCity": "Tucunduva",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4313",
+    "nameCity": "Tunas",
+    "quantityLetters": 5,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4314",
+    "nameCity": "Tupanci do Sul",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4315",
+    "nameCity": "Tupanciretã",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4316",
+    "nameCity": "Tupandi",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4317",
+    "nameCity": "Tuparendi",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4318",
+    "nameCity": "Turuçu",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4319",
+    "nameCity": "Ubiretama",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4320",
+    "nameCity": "União da Serra",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4321",
+    "nameCity": "Unistalda",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4322",
+    "nameCity": "Uruguaiana",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4323",
+    "nameCity": "Vacaria",
+    "quantityLetters": 7,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4324",
+    "nameCity": "Vale do Sol",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4325",
+    "nameCity": "Vale Real",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4326",
+    "nameCity": "Vale Verde",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4327",
+    "nameCity": "Vanini",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4328",
+    "nameCity": "Venâncio Aires",
+    "quantityLetters": 14,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4329",
+    "nameCity": "Vera Cruz",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4330",
+    "nameCity": "Veranópolis",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4331",
+    "nameCity": "Vespasiano Correa",
+    "quantityLetters": 17,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4332",
+    "nameCity": "Viadutos",
+    "quantityLetters": 8,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4333",
+    "nameCity": "Viamão",
+    "quantityLetters": 6,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4334",
+    "nameCity": "Vicente Dutra",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4335",
+    "nameCity": "Victor Graeff",
+    "quantityLetters": 13,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4336",
+    "nameCity": "Vila Flores",
+    "quantityLetters": 11,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4337",
+    "nameCity": "Vila Lângaro",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4338",
+    "nameCity": "Vila Maria",
+    "quantityLetters": 10,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4339",
+    "nameCity": "Vila Nova do Sul",
+    "quantityLetters": 16,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4340",
+    "nameCity": "Vista Alegre",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4341",
+    "nameCity": "Vista Alegre do Prata",
+    "quantityLetters": 21,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4342",
+    "nameCity": "Vista Gaúcha",
+    "quantityLetters": 12,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4343",
+    "nameCity": "Vitória das Missões",
+    "quantityLetters": 19,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4344",
+    "nameCity": "Westfália",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  },
+  {
+    "id": "4345",
+    "nameCity": "Xangri-lá",
+    "quantityLetters": 9,
+    "state": "RS",
+    "nameState": "Rio Grande do Sul",
+    "stateID": "23"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "5351",
+    "nameCity": "Amparo de São Francisco",
+    "quantityLetters": 23,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5352",
+    "nameCity": "Aquidabã",
+    "quantityLetters": 8,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5353",
+    "nameCity": "Aracaju",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5354",
+    "nameCity": "Arauá",
+    "quantityLetters": 5,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5355",
+    "nameCity": "Areia Branca",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5356",
+    "nameCity": "Barra dos Coqueiros",
+    "quantityLetters": 19,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5357",
+    "nameCity": "Boquim",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5358",
+    "nameCity": "Brejo Grande",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5359",
+    "nameCity": "Campo do Brito",
+    "quantityLetters": 14,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5360",
+    "nameCity": "Canhoba",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5361",
+    "nameCity": "Canindé de São Francisco",
+    "quantityLetters": 24,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5362",
+    "nameCity": "Capela",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5363",
+    "nameCity": "Carira",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5364",
+    "nameCity": "Carmópolis",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5365",
+    "nameCity": "Cedro de São João",
+    "quantityLetters": 17,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5366",
+    "nameCity": "Cristinápolis",
+    "quantityLetters": 13,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5367",
+    "nameCity": "Cumbe",
+    "quantityLetters": 5,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5368",
+    "nameCity": "Divina Pastora",
+    "quantityLetters": 14,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5369",
+    "nameCity": "Estância",
+    "quantityLetters": 8,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5370",
+    "nameCity": "Feira Nova",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5371",
+    "nameCity": "Frei Paulo",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5372",
+    "nameCity": "Gararu",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5373",
+    "nameCity": "General Maynard",
+    "quantityLetters": 15,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5374",
+    "nameCity": "Gracho Cardoso",
+    "quantityLetters": 14,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5375",
+    "nameCity": "Ilha das Flores",
+    "quantityLetters": 15,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5376",
+    "nameCity": "Indiaroba",
+    "quantityLetters": 9,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5377",
+    "nameCity": "Itabaiana",
+    "quantityLetters": 9,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5378",
+    "nameCity": "Itabaianinha",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5379",
+    "nameCity": "Itabi",
+    "quantityLetters": 5,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5380",
+    "nameCity": "Itaporanga d`Ajuda",
+    "quantityLetters": 18,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5381",
+    "nameCity": "Japaratuba",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5382",
+    "nameCity": "Japoatã",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5383",
+    "nameCity": "Lagarto",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5384",
+    "nameCity": "Laranjeiras",
+    "quantityLetters": 11,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5385",
+    "nameCity": "Macambira",
+    "quantityLetters": 9,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5386",
+    "nameCity": "Malhada dos Bois",
+    "quantityLetters": 16,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5387",
+    "nameCity": "Malhador",
+    "quantityLetters": 8,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5388",
+    "nameCity": "Maruim",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5389",
+    "nameCity": "Moita Bonita",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5390",
+    "nameCity": "Monte Alegre de Sergipe",
+    "quantityLetters": 23,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5391",
+    "nameCity": "Muribeca",
+    "quantityLetters": 8,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5392",
+    "nameCity": "Neópolis",
+    "quantityLetters": 8,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5393",
+    "nameCity": "Nossa Senhora Aparecida",
+    "quantityLetters": 23,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5394",
+    "nameCity": "Nossa Senhora da Glória",
+    "quantityLetters": 23,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5395",
+    "nameCity": "Nossa Senhora das Dores",
+    "quantityLetters": 23,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5396",
+    "nameCity": "Nossa Senhora de Lourdes",
+    "quantityLetters": 24,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5397",
+    "nameCity": "Nossa Senhora do Socorro",
+    "quantityLetters": 24,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5398",
+    "nameCity": "Pacatuba",
+    "quantityLetters": 8,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5399",
+    "nameCity": "Pedra Mole",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5400",
+    "nameCity": "Pedrinhas",
+    "quantityLetters": 9,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5401",
+    "nameCity": "Pinhão",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5402",
+    "nameCity": "Pirambu",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5403",
+    "nameCity": "Poço Redondo",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5404",
+    "nameCity": "Poço Verde",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5405",
+    "nameCity": "Porto da Folha",
+    "quantityLetters": 14,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5406",
+    "nameCity": "Propriá",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5407",
+    "nameCity": "Riachão do Dantas",
+    "quantityLetters": 17,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5408",
+    "nameCity": "Riachuelo",
+    "quantityLetters": 9,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5409",
+    "nameCity": "Ribeirópolis",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5410",
+    "nameCity": "Rosário do Catete",
+    "quantityLetters": 17,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5411",
+    "nameCity": "Salgado",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5412",
+    "nameCity": "Santa Luzia do Itanhy",
+    "quantityLetters": 21,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5413",
+    "nameCity": "Santa Rosa de Lima",
+    "quantityLetters": 18,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5414",
+    "nameCity": "Santana do São Francisco",
+    "quantityLetters": 24,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5415",
+    "nameCity": "Santo Amaro das Brotas",
+    "quantityLetters": 22,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5416",
+    "nameCity": "São Cristóvão",
+    "quantityLetters": 13,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5417",
+    "nameCity": "São Domingos",
+    "quantityLetters": 12,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5418",
+    "nameCity": "São Francisco",
+    "quantityLetters": 13,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5419",
+    "nameCity": "São Miguel do Aleixo",
+    "quantityLetters": 20,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5420",
+    "nameCity": "Simão Dias",
+    "quantityLetters": 10,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5421",
+    "nameCity": "Siriri",
+    "quantityLetters": 6,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5422",
+    "nameCity": "Telha",
+    "quantityLetters": 5,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5423",
+    "nameCity": "Tobias Barreto",
+    "quantityLetters": 14,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5424",
+    "nameCity": "Tomar do Geru",
+    "quantityLetters": 13,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  },
+  {
+    "id": "5425",
+    "nameCity": "Umbaúba",
+    "quantityLetters": 7,
+    "state": "SE",
+    "nameState": "Sergipe",
+    "stateID": "25"
+  }
+]

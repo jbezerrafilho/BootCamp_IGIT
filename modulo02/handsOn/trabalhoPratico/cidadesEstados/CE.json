@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "698",
+    "nameCity": "Abaiara",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "699",
+    "nameCity": "Acarape",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "700",
+    "nameCity": "Acaraú",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "701",
+    "nameCity": "Acopiara",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "702",
+    "nameCity": "Aiuaba",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "703",
+    "nameCity": "Alcântaras",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "704",
+    "nameCity": "Altaneira",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "705",
+    "nameCity": "Alto Santo",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "706",
+    "nameCity": "Amontada",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "707",
+    "nameCity": "Antonina do Norte",
+    "quantityLetters": 17,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "708",
+    "nameCity": "Apuiarés",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "709",
+    "nameCity": "Aquiraz",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "710",
+    "nameCity": "Aracati",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "711",
+    "nameCity": "Aracoiaba",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "712",
+    "nameCity": "Ararendá",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "713",
+    "nameCity": "Araripe",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "714",
+    "nameCity": "Aratuba",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "715",
+    "nameCity": "Arneiroz",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "716",
+    "nameCity": "Assaré",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "717",
+    "nameCity": "Aurora",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "718",
+    "nameCity": "Baixio",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "719",
+    "nameCity": "Banabuiú",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "720",
+    "nameCity": "Barbalha",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "721",
+    "nameCity": "Barreira",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "722",
+    "nameCity": "Barro",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "723",
+    "nameCity": "Barroquinha",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "724",
+    "nameCity": "Baturité",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "725",
+    "nameCity": "Beberibe",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "726",
+    "nameCity": "Bela Cruz",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "727",
+    "nameCity": "Boa Viagem",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "728",
+    "nameCity": "Brejo Santo",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "729",
+    "nameCity": "Camocim",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "730",
+    "nameCity": "Campos Sales",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "731",
+    "nameCity": "Canindé",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "732",
+    "nameCity": "Capistrano",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "733",
+    "nameCity": "Caridade",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "734",
+    "nameCity": "Cariré",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "735",
+    "nameCity": "Caririaçu",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "736",
+    "nameCity": "Cariús",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "737",
+    "nameCity": "Carnaubal",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "738",
+    "nameCity": "Cascavel",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "739",
+    "nameCity": "Catarina",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "740",
+    "nameCity": "Catunda",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "741",
+    "nameCity": "Caucaia",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "742",
+    "nameCity": "Cedro",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "743",
+    "nameCity": "Chaval",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "744",
+    "nameCity": "Choró",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "745",
+    "nameCity": "Chorozinho",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "746",
+    "nameCity": "Coreaú",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "747",
+    "nameCity": "Crateús",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "748",
+    "nameCity": "Crato",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "749",
+    "nameCity": "Croatá",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "750",
+    "nameCity": "Cruz",
+    "quantityLetters": 4,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "751",
+    "nameCity": "Deputado Irapuan Pinheiro",
+    "quantityLetters": 25,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "752",
+    "nameCity": "Ererê",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "753",
+    "nameCity": "Eusébio",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "754",
+    "nameCity": "Farias Brito",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "755",
+    "nameCity": "Forquilha",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "756",
+    "nameCity": "Fortaleza",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "757",
+    "nameCity": "Fortim",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "758",
+    "nameCity": "Frecheirinha",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "759",
+    "nameCity": "General Sampaio",
+    "quantityLetters": 15,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "760",
+    "nameCity": "Graça",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "761",
+    "nameCity": "Granja",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "762",
+    "nameCity": "Granjeiro",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "763",
+    "nameCity": "Groaíras",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "764",
+    "nameCity": "Guaiúba",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "765",
+    "nameCity": "Guaraciaba do Norte",
+    "quantityLetters": 19,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "766",
+    "nameCity": "Guaramiranga",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "767",
+    "nameCity": "Hidrolândia",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "768",
+    "nameCity": "Horizonte",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "769",
+    "nameCity": "Ibaretama",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "770",
+    "nameCity": "Ibiapina",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "771",
+    "nameCity": "Ibicuitinga",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "772",
+    "nameCity": "Icapuí",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "773",
+    "nameCity": "Icó",
+    "quantityLetters": 3,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "774",
+    "nameCity": "Iguatu",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "775",
+    "nameCity": "Independência",
+    "quantityLetters": 13,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "776",
+    "nameCity": "Ipaporanga",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "777",
+    "nameCity": "Ipaumirim",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "778",
+    "nameCity": "Ipu",
+    "quantityLetters": 3,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "779",
+    "nameCity": "Ipueiras",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "780",
+    "nameCity": "Iracema",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "781",
+    "nameCity": "Irauçuba",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "782",
+    "nameCity": "Itaiçaba",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "783",
+    "nameCity": "Itaitinga",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "784",
+    "nameCity": "Itapagé",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "785",
+    "nameCity": "Itapipoca",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "786",
+    "nameCity": "Itapiúna",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "787",
+    "nameCity": "Itarema",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "788",
+    "nameCity": "Itatira",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "789",
+    "nameCity": "Jaguaretama",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "790",
+    "nameCity": "Jaguaribara",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "791",
+    "nameCity": "Jaguaribe",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "792",
+    "nameCity": "Jaguaruana",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "793",
+    "nameCity": "Jardim",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "794",
+    "nameCity": "Jati",
+    "quantityLetters": 4,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "795",
+    "nameCity": "Jijoca de Jericoacoara",
+    "quantityLetters": 22,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "796",
+    "nameCity": "Juazeiro do Norte",
+    "quantityLetters": 17,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "797",
+    "nameCity": "Jucás",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "798",
+    "nameCity": "Lavras da Mangabeira",
+    "quantityLetters": 20,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "799",
+    "nameCity": "Limoeiro do Norte",
+    "quantityLetters": 17,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "800",
+    "nameCity": "Madalena",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "801",
+    "nameCity": "Maracanaú",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "802",
+    "nameCity": "Maranguape",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "803",
+    "nameCity": "Marco",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "804",
+    "nameCity": "Martinópole",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "805",
+    "nameCity": "Massapê",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "806",
+    "nameCity": "Mauriti",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "807",
+    "nameCity": "Meruoca",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "808",
+    "nameCity": "Milagres",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "809",
+    "nameCity": "Milhã",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "810",
+    "nameCity": "Miraíma",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "811",
+    "nameCity": "Missão Velha",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "812",
+    "nameCity": "Mombaça",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "813",
+    "nameCity": "Monsenhor Tabosa",
+    "quantityLetters": 16,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "814",
+    "nameCity": "Morada Nova",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "815",
+    "nameCity": "Moraújo",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "816",
+    "nameCity": "Morrinhos",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "817",
+    "nameCity": "Mucambo",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "818",
+    "nameCity": "Mulungu",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "819",
+    "nameCity": "Nova Olinda",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "820",
+    "nameCity": "Nova Russas",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "821",
+    "nameCity": "Novo Oriente",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "822",
+    "nameCity": "Ocara",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "823",
+    "nameCity": "Orós",
+    "quantityLetters": 4,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "824",
+    "nameCity": "Pacajus",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "825",
+    "nameCity": "Pacatuba",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "826",
+    "nameCity": "Pacoti",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "827",
+    "nameCity": "Pacujá",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "828",
+    "nameCity": "Palhano",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "829",
+    "nameCity": "Palmácia",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "830",
+    "nameCity": "Paracuru",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "831",
+    "nameCity": "Paraipaba",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "832",
+    "nameCity": "Parambu",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "833",
+    "nameCity": "Paramoti",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "834",
+    "nameCity": "Pedra Branca",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "835",
+    "nameCity": "Penaforte",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "836",
+    "nameCity": "Pentecoste",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "837",
+    "nameCity": "Pereiro",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "838",
+    "nameCity": "Pindoretama",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "839",
+    "nameCity": "Piquet Carneiro",
+    "quantityLetters": 15,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "840",
+    "nameCity": "Pires Ferreira",
+    "quantityLetters": 14,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "841",
+    "nameCity": "Poranga",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "842",
+    "nameCity": "Porteiras",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "843",
+    "nameCity": "Potengi",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "844",
+    "nameCity": "Potiretama",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "845",
+    "nameCity": "Quiterianópolis",
+    "quantityLetters": 15,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "846",
+    "nameCity": "Quixadá",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "847",
+    "nameCity": "Quixelô",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "848",
+    "nameCity": "Quixeramobim",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "849",
+    "nameCity": "Quixeré",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "850",
+    "nameCity": "Redenção",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "851",
+    "nameCity": "Reriutaba",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "852",
+    "nameCity": "Russas",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "853",
+    "nameCity": "Saboeiro",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "854",
+    "nameCity": "Salitre",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "855",
+    "nameCity": "Santa Quitéria",
+    "quantityLetters": 14,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "856",
+    "nameCity": "Santana do Acaraú",
+    "quantityLetters": 17,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "857",
+    "nameCity": "Santana do Cariri",
+    "quantityLetters": 17,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "858",
+    "nameCity": "São Benedito",
+    "quantityLetters": 12,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "859",
+    "nameCity": "São Gonçalo do Amarante",
+    "quantityLetters": 23,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "860",
+    "nameCity": "São João do Jaguaribe",
+    "quantityLetters": 21,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "861",
+    "nameCity": "São Luís do Curu",
+    "quantityLetters": 16,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "862",
+    "nameCity": "Senador Pompeu",
+    "quantityLetters": 14,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "863",
+    "nameCity": "Senador Sá",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "864",
+    "nameCity": "Sobral",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "865",
+    "nameCity": "Solonópole",
+    "quantityLetters": 10,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "866",
+    "nameCity": "Tabuleiro do Norte",
+    "quantityLetters": 18,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "867",
+    "nameCity": "Tamboril",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "868",
+    "nameCity": "Tarrafas",
+    "quantityLetters": 8,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "869",
+    "nameCity": "Tauá",
+    "quantityLetters": 4,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "870",
+    "nameCity": "Tejuçuoca",
+    "quantityLetters": 9,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "871",
+    "nameCity": "Tianguá",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "872",
+    "nameCity": "Trairi",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "873",
+    "nameCity": "Tururu",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "874",
+    "nameCity": "Ubajara",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "875",
+    "nameCity": "Umari",
+    "quantityLetters": 5,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "876",
+    "nameCity": "Umirim",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "877",
+    "nameCity": "Uruburetama",
+    "quantityLetters": 11,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "878",
+    "nameCity": "Uruoca",
+    "quantityLetters": 6,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "879",
+    "nameCity": "Varjota",
+    "quantityLetters": 7,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "880",
+    "nameCity": "Várzea Alegre",
+    "quantityLetters": 13,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  },
+  {
+    "id": "881",
+    "nameCity": "Viçosa do Ceará",
+    "quantityLetters": 15,
+    "state": "CE",
+    "nameState": "Ceará",
+    "stateID": "6"
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "4346",
+    "nameCity": "Alta Floresta d`Oeste",
+    "quantityLetters": 21,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4347",
+    "nameCity": "Alto Alegre dos Parecis",
+    "quantityLetters": 23,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4348",
+    "nameCity": "Alto Paraíso",
+    "quantityLetters": 12,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4349",
+    "nameCity": "Alvorada d`Oeste",
+    "quantityLetters": 16,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4350",
+    "nameCity": "Ariquemes",
+    "quantityLetters": 9,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4351",
+    "nameCity": "Buritis",
+    "quantityLetters": 7,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4352",
+    "nameCity": "Cabixi",
+    "quantityLetters": 6,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4353",
+    "nameCity": "Cacaulândia",
+    "quantityLetters": 11,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4354",
+    "nameCity": "Cacoal",
+    "quantityLetters": 6,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4355",
+    "nameCity": "Campo Novo de Rondônia",
+    "quantityLetters": 22,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4356",
+    "nameCity": "Candeias do Jamari",
+    "quantityLetters": 18,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4357",
+    "nameCity": "Castanheiras",
+    "quantityLetters": 12,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4358",
+    "nameCity": "Cerejeiras",
+    "quantityLetters": 10,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4359",
+    "nameCity": "Chupinguaia",
+    "quantityLetters": 11,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4360",
+    "nameCity": "Colorado do Oeste",
+    "quantityLetters": 17,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4361",
+    "nameCity": "Corumbiara",
+    "quantityLetters": 10,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4362",
+    "nameCity": "Costa Marques",
+    "quantityLetters": 13,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4363",
+    "nameCity": "Cujubim",
+    "quantityLetters": 7,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4364",
+    "nameCity": "Espigão d`Oeste",
+    "quantityLetters": 15,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4365",
+    "nameCity": "Governador Jorge Teixeira",
+    "quantityLetters": 25,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4366",
+    "nameCity": "Guajará-Mirim",
+    "quantityLetters": 13,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4367",
+    "nameCity": "Itapuã do Oeste",
+    "quantityLetters": 15,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4368",
+    "nameCity": "Jaru",
+    "quantityLetters": 4,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4369",
+    "nameCity": "Ji-Paraná",
+    "quantityLetters": 9,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4370",
+    "nameCity": "Machadinho d`Oeste",
+    "quantityLetters": 18,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4371",
+    "nameCity": "Ministro Andreazza",
+    "quantityLetters": 18,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4372",
+    "nameCity": "Mirante da Serra",
+    "quantityLetters": 16,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4373",
+    "nameCity": "Monte Negro",
+    "quantityLetters": 11,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4374",
+    "nameCity": "Nova Brasilândia d`Oeste",
+    "quantityLetters": 24,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4375",
+    "nameCity": "Nova Mamoré",
+    "quantityLetters": 11,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4376",
+    "nameCity": "Nova União",
+    "quantityLetters": 10,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4377",
+    "nameCity": "Novo Horizonte do Oeste",
+    "quantityLetters": 23,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4378",
+    "nameCity": "Ouro Preto do Oeste",
+    "quantityLetters": 19,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4379",
+    "nameCity": "Parecis",
+    "quantityLetters": 7,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4380",
+    "nameCity": "Pimenta Bueno",
+    "quantityLetters": 13,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4381",
+    "nameCity": "Pimenteiras do Oeste",
+    "quantityLetters": 20,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4382",
+    "nameCity": "Porto Velho",
+    "quantityLetters": 11,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4383",
+    "nameCity": "Presidente Médici",
+    "quantityLetters": 17,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4384",
+    "nameCity": "Primavera de Rondônia",
+    "quantityLetters": 21,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4385",
+    "nameCity": "Rio Crespo",
+    "quantityLetters": 10,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4386",
+    "nameCity": "Rolim de Moura",
+    "quantityLetters": 14,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4387",
+    "nameCity": "Santa Luzia d`Oeste",
+    "quantityLetters": 19,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4388",
+    "nameCity": "São Felipe d`Oeste",
+    "quantityLetters": 18,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4389",
+    "nameCity": "São Francisco do Guaporé",
+    "quantityLetters": 24,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4390",
+    "nameCity": "São Miguel do Guaporé",
+    "quantityLetters": 21,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4391",
+    "nameCity": "Seringueiras",
+    "quantityLetters": 12,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4392",
+    "nameCity": "Teixeirópolis",
+    "quantityLetters": 13,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4393",
+    "nameCity": "Theobroma",
+    "quantityLetters": 9,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4394",
+    "nameCity": "Urupá",
+    "quantityLetters": 5,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4395",
+    "nameCity": "Vale do Anari",
+    "quantityLetters": 13,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4396",
+    "nameCity": "Vale do Paraíso",
+    "quantityLetters": 15,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  },
+  {
+    "id": "4397",
+    "nameCity": "Vilhena",
+    "quantityLetters": 7,
+    "state": "RO",
+    "nameState": "Rondônia",
+    "stateID": "21"
+  }
+]

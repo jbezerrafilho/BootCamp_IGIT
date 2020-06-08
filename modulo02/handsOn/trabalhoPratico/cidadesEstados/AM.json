@@ -1,0 +1,498 @@
+[
+  {
+    "id": "219",
+    "nameCity": "Alvarães",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "220",
+    "nameCity": "Amaturá",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "221",
+    "nameCity": "Anamã",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "222",
+    "nameCity": "Anori",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "223",
+    "nameCity": "Apuí",
+    "quantityLetters": 4,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "224",
+    "nameCity": "Atalaia do Norte",
+    "quantityLetters": 16,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "225",
+    "nameCity": "Autazes",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "226",
+    "nameCity": "Barcelos",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "227",
+    "nameCity": "Barreirinha",
+    "quantityLetters": 11,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "228",
+    "nameCity": "Benjamin Constant",
+    "quantityLetters": 17,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "229",
+    "nameCity": "Beruri",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "230",
+    "nameCity": "Boa Vista do Ramos",
+    "quantityLetters": 18,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "231",
+    "nameCity": "Boca do Acre",
+    "quantityLetters": 12,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "232",
+    "nameCity": "Borba",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "233",
+    "nameCity": "Caapiranga",
+    "quantityLetters": 10,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "234",
+    "nameCity": "Canutama",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "235",
+    "nameCity": "Carauari",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "236",
+    "nameCity": "Careiro",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "237",
+    "nameCity": "Careiro da Várzea",
+    "quantityLetters": 17,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "238",
+    "nameCity": "Coari",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "239",
+    "nameCity": "Codajás",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "240",
+    "nameCity": "Eirunepé",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "241",
+    "nameCity": "Envira",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "242",
+    "nameCity": "Fonte Boa",
+    "quantityLetters": 9,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "243",
+    "nameCity": "Guajará",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "244",
+    "nameCity": "Humaitá",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "245",
+    "nameCity": "Ipixuna",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "246",
+    "nameCity": "Iranduba",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "247",
+    "nameCity": "Itacoatiara",
+    "quantityLetters": 11,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "248",
+    "nameCity": "Itamarati",
+    "quantityLetters": 9,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "249",
+    "nameCity": "Itapiranga",
+    "quantityLetters": 10,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "250",
+    "nameCity": "Japurá",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "251",
+    "nameCity": "Juruá",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "252",
+    "nameCity": "Jutaí",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "253",
+    "nameCity": "Lábrea",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "254",
+    "nameCity": "Manacapuru",
+    "quantityLetters": 10,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "255",
+    "nameCity": "Manaquiri",
+    "quantityLetters": 9,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "256",
+    "nameCity": "Manaus",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "257",
+    "nameCity": "Manicoré",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "258",
+    "nameCity": "Maraã",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "259",
+    "nameCity": "Maués",
+    "quantityLetters": 5,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "260",
+    "nameCity": "Nhamundá",
+    "quantityLetters": 8,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "261",
+    "nameCity": "Nova Olinda do Norte",
+    "quantityLetters": 20,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "262",
+    "nameCity": "Novo Airão",
+    "quantityLetters": 10,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "263",
+    "nameCity": "Novo Aripuanã",
+    "quantityLetters": 13,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "264",
+    "nameCity": "Parintins",
+    "quantityLetters": 9,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "265",
+    "nameCity": "Pauini",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "266",
+    "nameCity": "Presidente Figueiredo",
+    "quantityLetters": 21,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "267",
+    "nameCity": "Rio Preto da Eva",
+    "quantityLetters": 16,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "268",
+    "nameCity": "Santa Isabel do Rio Negro",
+    "quantityLetters": 25,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "269",
+    "nameCity": "Santo Antônio do Içá",
+    "quantityLetters": 20,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "270",
+    "nameCity": "São Gabriel da Cachoeira",
+    "quantityLetters": 24,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "271",
+    "nameCity": "São Paulo de Olivença",
+    "quantityLetters": 21,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "272",
+    "nameCity": "São Sebastião do Uatumã",
+    "quantityLetters": 23,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "273",
+    "nameCity": "Silves",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "274",
+    "nameCity": "Tabatinga",
+    "quantityLetters": 9,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "275",
+    "nameCity": "Tapauá",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "276",
+    "nameCity": "Tefé",
+    "quantityLetters": 4,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "277",
+    "nameCity": "Tonantins",
+    "quantityLetters": 9,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "278",
+    "nameCity": "Uarini",
+    "quantityLetters": 6,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "279",
+    "nameCity": "Urucará",
+    "quantityLetters": 7,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  },
+  {
+    "id": "280",
+    "nameCity": "Urucurituba",
+    "quantityLetters": 11,
+    "state": "AM",
+    "nameState": "Amazonas",
+    "stateID": "3"
+  }
+]

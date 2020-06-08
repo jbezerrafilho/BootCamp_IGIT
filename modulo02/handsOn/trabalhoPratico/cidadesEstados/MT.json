@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "1346",
+    "nameCity": "Acorizal",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1347",
+    "nameCity": "Água Boa",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1348",
+    "nameCity": "Alta Floresta",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1349",
+    "nameCity": "Alto Araguaia",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1350",
+    "nameCity": "Alto Boa Vista",
+    "quantityLetters": 14,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1351",
+    "nameCity": "Alto Garças",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1352",
+    "nameCity": "Alto Paraguai",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1353",
+    "nameCity": "Alto Taquari",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1354",
+    "nameCity": "Apiacás",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1355",
+    "nameCity": "Araguaiana",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1356",
+    "nameCity": "Araguainha",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1357",
+    "nameCity": "Araputanga",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1358",
+    "nameCity": "Arenápolis",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1359",
+    "nameCity": "Aripuanã",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1360",
+    "nameCity": "Barão de Melgaço",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1361",
+    "nameCity": "Barra do Bugres",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1362",
+    "nameCity": "Barra do Garças",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1363",
+    "nameCity": "Bom Jesus do Araguaia",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1364",
+    "nameCity": "Brasnorte",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1365",
+    "nameCity": "Cáceres",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1366",
+    "nameCity": "Campinápolis",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1367",
+    "nameCity": "Campo Novo do Parecis",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1368",
+    "nameCity": "Campo Verde",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1369",
+    "nameCity": "Campos de Júlio",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1370",
+    "nameCity": "Canabrava do Norte",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1371",
+    "nameCity": "Canarana",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1372",
+    "nameCity": "Carlinda",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1373",
+    "nameCity": "Castanheira",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1374",
+    "nameCity": "Chapada dos Guimarães",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1375",
+    "nameCity": "Cláudia",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1376",
+    "nameCity": "Cocalinho",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1377",
+    "nameCity": "Colíder",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1378",
+    "nameCity": "Colniza",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1379",
+    "nameCity": "Comodoro",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1380",
+    "nameCity": "Confresa",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1381",
+    "nameCity": "Conquista d`Oeste",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1382",
+    "nameCity": "Cotriguaçu",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1383",
+    "nameCity": "Cuiabá",
+    "quantityLetters": 6,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1384",
+    "nameCity": "Curvelândia",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1385",
+    "nameCity": "Curvelândia",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1386",
+    "nameCity": "Denise",
+    "quantityLetters": 6,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1387",
+    "nameCity": "Diamantino",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1388",
+    "nameCity": "Dom Aquino",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1389",
+    "nameCity": "Feliz Natal",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1390",
+    "nameCity": "Figueirópolis d`Oeste",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1391",
+    "nameCity": "Gaúcha do Norte",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1392",
+    "nameCity": "General Carneiro",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1393",
+    "nameCity": "Glória d`Oeste",
+    "quantityLetters": 14,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1394",
+    "nameCity": "Guarantã do Norte",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1395",
+    "nameCity": "Guiratinga",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1396",
+    "nameCity": "Indiavaí",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1397",
+    "nameCity": "Ipiranga do Norte",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1398",
+    "nameCity": "Itanhangá",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1399",
+    "nameCity": "Itaúba",
+    "quantityLetters": 6,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1400",
+    "nameCity": "Itiquira",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1401",
+    "nameCity": "Jaciara",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1402",
+    "nameCity": "Jangada",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1403",
+    "nameCity": "Jauru",
+    "quantityLetters": 5,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1404",
+    "nameCity": "Juara",
+    "quantityLetters": 5,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1405",
+    "nameCity": "Juína",
+    "quantityLetters": 5,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1406",
+    "nameCity": "Juruena",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1407",
+    "nameCity": "Juscimeira",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1408",
+    "nameCity": "Lambari d`Oeste",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1409",
+    "nameCity": "Lucas do Rio Verde",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1410",
+    "nameCity": "Luciára",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1411",
+    "nameCity": "Marcelândia",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1412",
+    "nameCity": "Matupá",
+    "quantityLetters": 6,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1413",
+    "nameCity": "Mirassol d`Oeste",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1414",
+    "nameCity": "Nobres",
+    "quantityLetters": 6,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1415",
+    "nameCity": "Nortelândia",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1416",
+    "nameCity": "Nossa Senhora do Livramento",
+    "quantityLetters": 27,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1417",
+    "nameCity": "Nova Bandeirantes",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1418",
+    "nameCity": "Nova Brasilândia",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1419",
+    "nameCity": "Nova Canaã do Norte",
+    "quantityLetters": 19,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1420",
+    "nameCity": "Nova Guarita",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1421",
+    "nameCity": "Nova Lacerda",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1422",
+    "nameCity": "Nova Marilândia",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1423",
+    "nameCity": "Nova Maringá",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1424",
+    "nameCity": "Nova Monte verde",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1425",
+    "nameCity": "Nova Mutum",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1426",
+    "nameCity": "Nova Olímpia",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1427",
+    "nameCity": "Nova Santa Helena",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1428",
+    "nameCity": "Nova Ubiratã",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1429",
+    "nameCity": "Nova Xavantina",
+    "quantityLetters": 14,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1430",
+    "nameCity": "Novo Horizonte do Norte",
+    "quantityLetters": 23,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1431",
+    "nameCity": "Novo Mundo",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1432",
+    "nameCity": "Novo Santo Antônio",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1433",
+    "nameCity": "Novo São Joaquim",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1434",
+    "nameCity": "Paranaíta",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1435",
+    "nameCity": "Paranatinga",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1436",
+    "nameCity": "Pedra Preta",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1437",
+    "nameCity": "Peixoto de Azevedo",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1438",
+    "nameCity": "Planalto da Serra",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1439",
+    "nameCity": "Poconé",
+    "quantityLetters": 6,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1440",
+    "nameCity": "Pontal do Araguaia",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1441",
+    "nameCity": "Ponte Branca",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1442",
+    "nameCity": "Pontes e Lacerda",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1443",
+    "nameCity": "Porto Alegre do Norte",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1444",
+    "nameCity": "Porto dos Gaúchos",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1445",
+    "nameCity": "Porto Esperidião",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1446",
+    "nameCity": "Porto Estrela",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1447",
+    "nameCity": "Poxoréo",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1448",
+    "nameCity": "Primavera do Leste",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1449",
+    "nameCity": "Querência",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1450",
+    "nameCity": "Reserva do Cabaçal",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1451",
+    "nameCity": "Ribeirão Cascalheira",
+    "quantityLetters": 20,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1452",
+    "nameCity": "Ribeirãozinho",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1453",
+    "nameCity": "Rio Branco",
+    "quantityLetters": 10,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1454",
+    "nameCity": "Rondolândia",
+    "quantityLetters": 11,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1455",
+    "nameCity": "Rondonópolis",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1456",
+    "nameCity": "Rosário Oeste",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1457",
+    "nameCity": "Salto do Céu",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1458",
+    "nameCity": "Santa Carmem",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1459",
+    "nameCity": "Santa Cruz do Xingu",
+    "quantityLetters": 19,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1460",
+    "nameCity": "Santa Rita do Trivelato",
+    "quantityLetters": 23,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1461",
+    "nameCity": "Santa Terezinha",
+    "quantityLetters": 15,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1462",
+    "nameCity": "Santo Afonso",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1463",
+    "nameCity": "Santo Antônio do Leste",
+    "quantityLetters": 22,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1464",
+    "nameCity": "Santo Antônio do Leverger",
+    "quantityLetters": 25,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1465",
+    "nameCity": "São Félix do Araguaia",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1466",
+    "nameCity": "São José do Povo",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1467",
+    "nameCity": "São José do Rio Claro",
+    "quantityLetters": 21,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1468",
+    "nameCity": "São José do Xingu",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1469",
+    "nameCity": "São José dos Quatro Marcos",
+    "quantityLetters": 26,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1470",
+    "nameCity": "São Pedro da Cipa",
+    "quantityLetters": 17,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1471",
+    "nameCity": "Sapezal",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1472",
+    "nameCity": "Serra Nova Dourada",
+    "quantityLetters": 18,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1473",
+    "nameCity": "Sinop",
+    "quantityLetters": 5,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1474",
+    "nameCity": "Sorriso",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1475",
+    "nameCity": "Tabaporã",
+    "quantityLetters": 8,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1476",
+    "nameCity": "Tangará da Serra",
+    "quantityLetters": 16,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1477",
+    "nameCity": "Tapurah",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1478",
+    "nameCity": "Terra Nova do Norte",
+    "quantityLetters": 19,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1479",
+    "nameCity": "Tesouro",
+    "quantityLetters": 7,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1480",
+    "nameCity": "Torixoréu",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1481",
+    "nameCity": "União do Sul",
+    "quantityLetters": 12,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1482",
+    "nameCity": "Vale de São Domingos",
+    "quantityLetters": 20,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1483",
+    "nameCity": "Várzea Grande",
+    "quantityLetters": 13,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1484",
+    "nameCity": "Vera",
+    "quantityLetters": 4,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1485",
+    "nameCity": "Vila Bela da Santíssima Trindade",
+    "quantityLetters": 32,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  },
+  {
+    "id": "1486",
+    "nameCity": "Vila Rica",
+    "quantityLetters": 9,
+    "state": "MT",
+    "nameState": "Mato Grosso",
+    "stateID": "13"
+  }
+]

@@ -1,0 +1,3194 @@
+[
+  {
+    "id": "2784",
+    "nameCity": "Abatiá",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2785",
+    "nameCity": "Adrianópolis",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2786",
+    "nameCity": "Agudos do Sul",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2787",
+    "nameCity": "Almirante Tamandaré",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2788",
+    "nameCity": "Altamira do Paraná",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2789",
+    "nameCity": "Alto Paraíso",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2790",
+    "nameCity": "Alto Paraná",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2791",
+    "nameCity": "Alto Piquiri",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2792",
+    "nameCity": "Altônia",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2793",
+    "nameCity": "Alvorada do Sul",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2794",
+    "nameCity": "Amaporã",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2795",
+    "nameCity": "Ampére",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2796",
+    "nameCity": "Anahy",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2797",
+    "nameCity": "Andirá",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2798",
+    "nameCity": "Ângulo",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2799",
+    "nameCity": "Antonina",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2800",
+    "nameCity": "Antônio Olinto",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2801",
+    "nameCity": "Apucarana",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2802",
+    "nameCity": "Arapongas",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2803",
+    "nameCity": "Arapoti",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2804",
+    "nameCity": "Arapuã",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2805",
+    "nameCity": "Araruna",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2806",
+    "nameCity": "Araucária",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2807",
+    "nameCity": "Ariranha do Ivaí",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2808",
+    "nameCity": "Assaí",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2809",
+    "nameCity": "Assis Chateaubriand",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2810",
+    "nameCity": "Astorga",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2811",
+    "nameCity": "Atalaia",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2812",
+    "nameCity": "Balsa Nova",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2813",
+    "nameCity": "Bandeirantes",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2814",
+    "nameCity": "Barbosa Ferraz",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2815",
+    "nameCity": "Barra do Jacaré",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2816",
+    "nameCity": "Barracão",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2817",
+    "nameCity": "Bela Vista da Caroba",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2818",
+    "nameCity": "Bela Vista do Paraíso",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2819",
+    "nameCity": "Bituruna",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2820",
+    "nameCity": "Boa Esperança",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2821",
+    "nameCity": "Boa Esperança do Iguaçu",
+    "quantityLetters": 23,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2822",
+    "nameCity": "Boa Ventura de São Roque",
+    "quantityLetters": 24,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2823",
+    "nameCity": "Boa Vista da Aparecida",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2824",
+    "nameCity": "Bocaiúva do Sul",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2825",
+    "nameCity": "Bom Jesus do Sul",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2826",
+    "nameCity": "Bom Sucesso",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2827",
+    "nameCity": "Bom Sucesso do Sul",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2828",
+    "nameCity": "Borrazópolis",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2829",
+    "nameCity": "Braganey",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2830",
+    "nameCity": "Brasilândia do Sul",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2831",
+    "nameCity": "Cafeara",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2832",
+    "nameCity": "Cafelândia",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2833",
+    "nameCity": "Cafezal do Sul",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2834",
+    "nameCity": "Califórnia",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2835",
+    "nameCity": "Cambará",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2836",
+    "nameCity": "Cambé",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2837",
+    "nameCity": "Cambira",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2838",
+    "nameCity": "Campina da Lagoa",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2839",
+    "nameCity": "Campina do Simão",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2840",
+    "nameCity": "Campina Grande do Sul",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2841",
+    "nameCity": "Campo Bonito",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2842",
+    "nameCity": "Campo do Tenente",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2843",
+    "nameCity": "Campo Largo",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2844",
+    "nameCity": "Campo Magro",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2845",
+    "nameCity": "Campo Mourão",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2846",
+    "nameCity": "Cândido de Abreu",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2847",
+    "nameCity": "Candói",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2848",
+    "nameCity": "Cantagalo",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2849",
+    "nameCity": "Capanema",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2850",
+    "nameCity": "Capitão Leônidas Marques",
+    "quantityLetters": 24,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2851",
+    "nameCity": "Carambeí",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2852",
+    "nameCity": "Carlópolis",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2853",
+    "nameCity": "Cascavel",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2854",
+    "nameCity": "Castro",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2855",
+    "nameCity": "Catanduvas",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2856",
+    "nameCity": "Centenário do Sul",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2857",
+    "nameCity": "Cerro Azul",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2858",
+    "nameCity": "Céu Azul",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2859",
+    "nameCity": "Chopinzinho",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2860",
+    "nameCity": "Cianorte",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2861",
+    "nameCity": "Cidade Gaúcha",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2862",
+    "nameCity": "Clevelândia",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2863",
+    "nameCity": "Colombo",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2864",
+    "nameCity": "Colorado",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2865",
+    "nameCity": "Congonhinhas",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2866",
+    "nameCity": "Conselheiro Mairinck",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2867",
+    "nameCity": "Contenda",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2868",
+    "nameCity": "Corbélia",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2869",
+    "nameCity": "Cornélio Procópio",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2870",
+    "nameCity": "Coronel Domingos Soares",
+    "quantityLetters": 23,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2871",
+    "nameCity": "Coronel Vivida",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2872",
+    "nameCity": "Corumbataí do Sul",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2873",
+    "nameCity": "Cruz Machado",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2874",
+    "nameCity": "Cruzeiro do Iguaçu",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2875",
+    "nameCity": "Cruzeiro do Oeste",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2876",
+    "nameCity": "Cruzeiro do Sul",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2877",
+    "nameCity": "Cruzmaltina",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2878",
+    "nameCity": "Curitiba",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2879",
+    "nameCity": "Curiúva",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2880",
+    "nameCity": "Diamante d`Oeste",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2881",
+    "nameCity": "Diamante do Norte",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2882",
+    "nameCity": "Diamante do Sul",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2883",
+    "nameCity": "Dois Vizinhos",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2884",
+    "nameCity": "Douradina",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2885",
+    "nameCity": "Doutor Camargo",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2886",
+    "nameCity": "Doutor Ulysses",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2887",
+    "nameCity": "Enéas Marques",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2888",
+    "nameCity": "Engenheiro Beltrão",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2889",
+    "nameCity": "Entre Rios do Oeste",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2890",
+    "nameCity": "Esperança Nova",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2891",
+    "nameCity": "Espigão Alto do Iguaçu",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2892",
+    "nameCity": "Farol",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2893",
+    "nameCity": "Faxinal",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2894",
+    "nameCity": "Fazenda Rio Grande",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2895",
+    "nameCity": "Fênix",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2896",
+    "nameCity": "Fernandes Pinheiro",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2897",
+    "nameCity": "Figueira",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2898",
+    "nameCity": "Flor da Serra do Sul",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2899",
+    "nameCity": "Floraí",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2900",
+    "nameCity": "Floresta",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2901",
+    "nameCity": "Florestópolis",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2902",
+    "nameCity": "Flórida",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2903",
+    "nameCity": "Formosa do Oeste",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2904",
+    "nameCity": "Foz do Iguaçu",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2905",
+    "nameCity": "Foz do Jordão",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2906",
+    "nameCity": "Francisco Alves",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2907",
+    "nameCity": "Francisco Beltrão",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2908",
+    "nameCity": "General Carneiro",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2909",
+    "nameCity": "Godoy Moreira",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2910",
+    "nameCity": "Goioerê",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2911",
+    "nameCity": "Goioxim",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2912",
+    "nameCity": "Grandes Rios",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2913",
+    "nameCity": "Guaíra",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2914",
+    "nameCity": "Guairaçá",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2915",
+    "nameCity": "Guamiranga",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2916",
+    "nameCity": "Guapirama",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2917",
+    "nameCity": "Guaporema",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2918",
+    "nameCity": "Guaraci",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2919",
+    "nameCity": "Guaraniaçu",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2920",
+    "nameCity": "Guarapuava",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2921",
+    "nameCity": "Guaraqueçaba",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2922",
+    "nameCity": "Guaratuba",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2923",
+    "nameCity": "Honório Serpa",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2924",
+    "nameCity": "Ibaiti",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2925",
+    "nameCity": "Ibema",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2926",
+    "nameCity": "Ibiporã",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2927",
+    "nameCity": "Icaraíma",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2928",
+    "nameCity": "Iguaraçu",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2929",
+    "nameCity": "Iguatu",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2930",
+    "nameCity": "Imbaú",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2931",
+    "nameCity": "Imbituva",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2932",
+    "nameCity": "Inácio Martins",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2933",
+    "nameCity": "Inajá",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2934",
+    "nameCity": "Indianópolis",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2935",
+    "nameCity": "Ipiranga",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2936",
+    "nameCity": "Iporã",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2937",
+    "nameCity": "Iracema do Oeste",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2938",
+    "nameCity": "Irati",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2939",
+    "nameCity": "Iretama",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2940",
+    "nameCity": "Itaguajé",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2941",
+    "nameCity": "Itaipulândia",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2942",
+    "nameCity": "Itambaracá",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2943",
+    "nameCity": "Itambé",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2944",
+    "nameCity": "Itapejara d`Oeste",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2945",
+    "nameCity": "Itaperuçu",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2946",
+    "nameCity": "Itaúna do Sul",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2947",
+    "nameCity": "Ivaí",
+    "quantityLetters": 4,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2948",
+    "nameCity": "Ivaiporã",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2949",
+    "nameCity": "Ivaté",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2950",
+    "nameCity": "Ivatuba",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2951",
+    "nameCity": "Jaboti",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2952",
+    "nameCity": "Jacarezinho",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2953",
+    "nameCity": "Jaguapitã",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2954",
+    "nameCity": "Jaguariaíva",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2955",
+    "nameCity": "Jandaia do Sul",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2956",
+    "nameCity": "Janiópolis",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2957",
+    "nameCity": "Japira",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2958",
+    "nameCity": "Japurá",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2959",
+    "nameCity": "Jardim Alegre",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2960",
+    "nameCity": "Jardim Olinda",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2961",
+    "nameCity": "Jataizinho",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2962",
+    "nameCity": "Jesuítas",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2963",
+    "nameCity": "Joaquim Távora",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2964",
+    "nameCity": "Jundiaí do Sul",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2965",
+    "nameCity": "Juranda",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2966",
+    "nameCity": "Jussara",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2967",
+    "nameCity": "Kaloré",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2968",
+    "nameCity": "Lapa",
+    "quantityLetters": 4,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2969",
+    "nameCity": "Laranjal",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2970",
+    "nameCity": "Laranjeiras do Sul",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2971",
+    "nameCity": "Leópolis",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2972",
+    "nameCity": "Lidianópolis",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2973",
+    "nameCity": "Lindoeste",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2974",
+    "nameCity": "Loanda",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2975",
+    "nameCity": "Lobato",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2976",
+    "nameCity": "Londrina",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2977",
+    "nameCity": "Luiziana",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2978",
+    "nameCity": "Lunardelli",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2979",
+    "nameCity": "Lupionópolis",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2980",
+    "nameCity": "Mallet",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2981",
+    "nameCity": "Mamborê",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2982",
+    "nameCity": "Mandaguaçu",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2983",
+    "nameCity": "Mandaguari",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2984",
+    "nameCity": "Mandirituba",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2985",
+    "nameCity": "Manfrinópolis",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2986",
+    "nameCity": "Mangueirinha",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2987",
+    "nameCity": "Manoel Ribas",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2988",
+    "nameCity": "Marechal Cândido Rondon",
+    "quantityLetters": 23,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2989",
+    "nameCity": "Maria Helena",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2990",
+    "nameCity": "Marialva",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2991",
+    "nameCity": "Marilândia do Sul",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2992",
+    "nameCity": "Marilena",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2993",
+    "nameCity": "Mariluz",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2994",
+    "nameCity": "Maringá",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2995",
+    "nameCity": "Mariópolis",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2996",
+    "nameCity": "Maripá",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2997",
+    "nameCity": "Marmeleiro",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2998",
+    "nameCity": "Marquinho",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "2999",
+    "nameCity": "Marumbi",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3000",
+    "nameCity": "Matelândia",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3001",
+    "nameCity": "Matinhos",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3002",
+    "nameCity": "Mato Rico",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3003",
+    "nameCity": "Mauá da Serra",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3004",
+    "nameCity": "Medianeira",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3005",
+    "nameCity": "Mercedes",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3006",
+    "nameCity": "Mirador",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3007",
+    "nameCity": "Miraselva",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3008",
+    "nameCity": "Missal",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3009",
+    "nameCity": "Moreira Sales",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3010",
+    "nameCity": "Morretes",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3011",
+    "nameCity": "Munhoz de Melo",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3012",
+    "nameCity": "Nossa Senhora das Graças",
+    "quantityLetters": 24,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3013",
+    "nameCity": "Nova Aliança do Ivaí",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3014",
+    "nameCity": "Nova América da Colina",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3015",
+    "nameCity": "Nova Aurora",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3016",
+    "nameCity": "Nova Cantu",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3017",
+    "nameCity": "Nova Esperança",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3018",
+    "nameCity": "Nova Esperança do Sudoeste",
+    "quantityLetters": 26,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3019",
+    "nameCity": "Nova Fátima",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3020",
+    "nameCity": "Nova Laranjeiras",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3021",
+    "nameCity": "Nova Londrina",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3022",
+    "nameCity": "Nova Olímpia",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3023",
+    "nameCity": "Nova Prata do Iguaçu",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3024",
+    "nameCity": "Nova Santa Bárbara",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3025",
+    "nameCity": "Nova Santa Rosa",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3026",
+    "nameCity": "Nova Tebas",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3027",
+    "nameCity": "Novo Itacolomi",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3028",
+    "nameCity": "Ortigueira",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3029",
+    "nameCity": "Ourizona",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3030",
+    "nameCity": "Ouro Verde do Oeste",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3031",
+    "nameCity": "Paiçandu",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3032",
+    "nameCity": "Palmas",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3033",
+    "nameCity": "Palmeira",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3034",
+    "nameCity": "Palmital",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3035",
+    "nameCity": "Palotina",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3036",
+    "nameCity": "Paraíso do Norte",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3037",
+    "nameCity": "Paranacity",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3038",
+    "nameCity": "Paranaguá",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3039",
+    "nameCity": "Paranapoema",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3040",
+    "nameCity": "Paranavaí",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3041",
+    "nameCity": "Pato Bragado",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3042",
+    "nameCity": "Pato Branco",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3043",
+    "nameCity": "Paula Freitas",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3044",
+    "nameCity": "Paulo Frontin",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3045",
+    "nameCity": "Peabiru",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3046",
+    "nameCity": "Perobal",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3047",
+    "nameCity": "Pérola",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3048",
+    "nameCity": "Pérola d`Oeste",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3049",
+    "nameCity": "Piên",
+    "quantityLetters": 4,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3050",
+    "nameCity": "Pinhais",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3051",
+    "nameCity": "Pinhal de São Bento",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3052",
+    "nameCity": "Pinhalão",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3053",
+    "nameCity": "Pinhão",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3054",
+    "nameCity": "Piraí do Sul",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3055",
+    "nameCity": "Piraquara",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3056",
+    "nameCity": "Pitanga",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3057",
+    "nameCity": "Pitangueiras",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3058",
+    "nameCity": "Planaltina do Paraná",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3059",
+    "nameCity": "Planalto",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3060",
+    "nameCity": "Ponta Grossa",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3061",
+    "nameCity": "Pontal do Paraná",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3062",
+    "nameCity": "Porecatu",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3063",
+    "nameCity": "Porto Amazonas",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3064",
+    "nameCity": "Porto Barreiro",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3065",
+    "nameCity": "Porto Rico",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3066",
+    "nameCity": "Porto Vitória",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3067",
+    "nameCity": "Prado Ferreira",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3068",
+    "nameCity": "Pranchita",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3069",
+    "nameCity": "Presidente Castelo Branco",
+    "quantityLetters": 25,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3070",
+    "nameCity": "Primeiro de Maio",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3071",
+    "nameCity": "Prudentópolis",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3072",
+    "nameCity": "Quarto Centenário",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3073",
+    "nameCity": "Quatiguá",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3074",
+    "nameCity": "Quatro Barras",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3075",
+    "nameCity": "Quatro Pontes",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3076",
+    "nameCity": "Quedas do Iguaçu",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3077",
+    "nameCity": "Querência do Norte",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3078",
+    "nameCity": "Quinta do Sol",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3079",
+    "nameCity": "Quitandinha",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3080",
+    "nameCity": "Ramilândia",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3081",
+    "nameCity": "Rancho Alegre",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3082",
+    "nameCity": "Rancho Alegre d`Oeste",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3083",
+    "nameCity": "Realeza",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3084",
+    "nameCity": "Rebouças",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3085",
+    "nameCity": "Renascença",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3086",
+    "nameCity": "Reserva",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3087",
+    "nameCity": "Reserva do Iguaçu",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3088",
+    "nameCity": "Ribeirão Claro",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3089",
+    "nameCity": "Ribeirão do Pinhal",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3090",
+    "nameCity": "Rio Azul",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3091",
+    "nameCity": "Rio Bom",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3092",
+    "nameCity": "Rio Bonito do Iguaçu",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3093",
+    "nameCity": "Rio Branco do Ivaí",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3094",
+    "nameCity": "Rio Branco do Sul",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3095",
+    "nameCity": "Rio Negro",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3096",
+    "nameCity": "Rolândia",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3097",
+    "nameCity": "Roncador",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3098",
+    "nameCity": "Rondon",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3099",
+    "nameCity": "Rosário do Ivaí",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3100",
+    "nameCity": "Sabáudia",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3101",
+    "nameCity": "Salgado Filho",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3102",
+    "nameCity": "Salto do Itararé",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3103",
+    "nameCity": "Salto do Lontra",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3104",
+    "nameCity": "Santa Amélia",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3105",
+    "nameCity": "Santa Cecília do Pavão",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3106",
+    "nameCity": "Santa Cruz de Monte Castelo",
+    "quantityLetters": 27,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3107",
+    "nameCity": "Santa Fé",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3108",
+    "nameCity": "Santa Helena",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3109",
+    "nameCity": "Santa Inês",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3110",
+    "nameCity": "Santa Isabel do Ivaí",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3111",
+    "nameCity": "Santa Izabel do Oeste",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3112",
+    "nameCity": "Santa Lúcia",
+    "quantityLetters": 11,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3113",
+    "nameCity": "Santa Maria do Oeste",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3114",
+    "nameCity": "Santa Mariana",
+    "quantityLetters": 13,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3115",
+    "nameCity": "Santa Mônica",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3116",
+    "nameCity": "Santa Tereza do Oeste",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3117",
+    "nameCity": "Santa Terezinha de Itaipu",
+    "quantityLetters": 25,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3118",
+    "nameCity": "Santana do Itararé",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3119",
+    "nameCity": "Santo Antônio da Platina",
+    "quantityLetters": 24,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3120",
+    "nameCity": "Santo Antônio do Caiuá",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3121",
+    "nameCity": "Santo Antônio do Paraíso",
+    "quantityLetters": 24,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3122",
+    "nameCity": "Santo Antônio do Sudoeste",
+    "quantityLetters": 25,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3123",
+    "nameCity": "Santo Inácio",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3124",
+    "nameCity": "São Carlos do Ivaí",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3125",
+    "nameCity": "São Jerônimo da Serra",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3126",
+    "nameCity": "São João",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3127",
+    "nameCity": "São João do Caiuá",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3128",
+    "nameCity": "São João do Ivaí",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3129",
+    "nameCity": "São João do Triunfo",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3130",
+    "nameCity": "São Jorge d`Oeste",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3131",
+    "nameCity": "São Jorge do Ivaí",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3132",
+    "nameCity": "São Jorge do Patrocínio",
+    "quantityLetters": 23,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3133",
+    "nameCity": "São José da Boa Vista",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3134",
+    "nameCity": "São José das Palmeiras",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3135",
+    "nameCity": "São José dos Pinhais",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3136",
+    "nameCity": "São Manoel do Paraná",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3137",
+    "nameCity": "São Mateus do Sul",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3138",
+    "nameCity": "São Miguel do Iguaçu",
+    "quantityLetters": 20,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3139",
+    "nameCity": "São Pedro do Iguaçu",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3140",
+    "nameCity": "São Pedro do Ivaí",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3141",
+    "nameCity": "São Pedro do Paraná",
+    "quantityLetters": 19,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3142",
+    "nameCity": "São Sebastião da Amoreira",
+    "quantityLetters": 25,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3143",
+    "nameCity": "São Tomé",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3144",
+    "nameCity": "Sapopema",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3145",
+    "nameCity": "Sarandi",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3146",
+    "nameCity": "Saudade do Iguaçu",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3147",
+    "nameCity": "Sengés",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3148",
+    "nameCity": "Serranópolis do Iguaçu",
+    "quantityLetters": 22,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3149",
+    "nameCity": "Sertaneja",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3150",
+    "nameCity": "Sertanópolis",
+    "quantityLetters": 12,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3151",
+    "nameCity": "Siqueira Campos",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3152",
+    "nameCity": "Sulina",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3153",
+    "nameCity": "Tamarana",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3154",
+    "nameCity": "Tamboara",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3155",
+    "nameCity": "Tapejara",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3156",
+    "nameCity": "Tapira",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3157",
+    "nameCity": "Teixeira Soares",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3158",
+    "nameCity": "Telêmaco Borba",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3159",
+    "nameCity": "Terra Boa",
+    "quantityLetters": 9,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3160",
+    "nameCity": "Terra Rica",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3161",
+    "nameCity": "Terra Roxa",
+    "quantityLetters": 10,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3162",
+    "nameCity": "Tibagi",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3163",
+    "nameCity": "Tijucas do Sul",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3164",
+    "nameCity": "Toledo",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3165",
+    "nameCity": "Tomazina",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3166",
+    "nameCity": "Três Barras do Paraná",
+    "quantityLetters": 21,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3167",
+    "nameCity": "Tunas do Paraná",
+    "quantityLetters": 15,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3168",
+    "nameCity": "Tuneiras do Oeste",
+    "quantityLetters": 17,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3169",
+    "nameCity": "Tupãssi",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3170",
+    "nameCity": "Turvo",
+    "quantityLetters": 5,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3171",
+    "nameCity": "Ubiratã",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3172",
+    "nameCity": "Umuarama",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3173",
+    "nameCity": "União da Vitória",
+    "quantityLetters": 16,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3174",
+    "nameCity": "Uniflor",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3175",
+    "nameCity": "Uraí",
+    "quantityLetters": 4,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3176",
+    "nameCity": "Ventania",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3177",
+    "nameCity": "Vera Cruz do Oeste",
+    "quantityLetters": 18,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3178",
+    "nameCity": "Verê",
+    "quantityLetters": 4,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3179",
+    "nameCity": "Virmond",
+    "quantityLetters": 7,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3180",
+    "nameCity": "Vitorino",
+    "quantityLetters": 8,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3181",
+    "nameCity": "Wenceslau Braz",
+    "quantityLetters": 14,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  },
+  {
+    "id": "3182",
+    "nameCity": "Xambrê",
+    "quantityLetters": 6,
+    "state": "PR",
+    "nameState": "Paraná",
+    "stateID": "18"
+  }
+]

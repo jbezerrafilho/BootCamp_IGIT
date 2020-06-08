@@ -1,0 +1,5162 @@
+[
+  {
+    "id": "4706",
+    "nameCity": "Adamantina",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4707",
+    "nameCity": "Adolfo",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4708",
+    "nameCity": "Aguaí",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4709",
+    "nameCity": "Águas da Prata",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4710",
+    "nameCity": "Águas de Lindóia",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4711",
+    "nameCity": "Águas de Santa Bárbara",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4712",
+    "nameCity": "Águas de São Pedro",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4713",
+    "nameCity": "Agudos",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4714",
+    "nameCity": "Alambari",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4715",
+    "nameCity": "Alfredo Marcondes",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4716",
+    "nameCity": "Altair",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4717",
+    "nameCity": "Altinópolis",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4718",
+    "nameCity": "Alto Alegre",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4719",
+    "nameCity": "Alumínio",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4720",
+    "nameCity": "Álvares Florence",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4721",
+    "nameCity": "Álvares Machado",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4722",
+    "nameCity": "Álvaro de Carvalho",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4723",
+    "nameCity": "Alvinlândia",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4724",
+    "nameCity": "Americana",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4725",
+    "nameCity": "Américo Brasiliense",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4726",
+    "nameCity": "Américo de Campos",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4727",
+    "nameCity": "Amparo",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4728",
+    "nameCity": "Analândia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4729",
+    "nameCity": "Andradina",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4730",
+    "nameCity": "Angatuba",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4731",
+    "nameCity": "Anhembi",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4732",
+    "nameCity": "Anhumas",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4733",
+    "nameCity": "Aparecida",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4734",
+    "nameCity": "Aparecida d`Oeste",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4735",
+    "nameCity": "Apiaí",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4736",
+    "nameCity": "Araçariguama",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4737",
+    "nameCity": "Araçatuba",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4738",
+    "nameCity": "Araçoiaba da Serra",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4739",
+    "nameCity": "Aramina",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4740",
+    "nameCity": "Arandu",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4741",
+    "nameCity": "Arapeí",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4742",
+    "nameCity": "Araraquara",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4743",
+    "nameCity": "Araras",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4744",
+    "nameCity": "Arco-Íris",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4745",
+    "nameCity": "Arealva",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4746",
+    "nameCity": "Areias",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4747",
+    "nameCity": "Areiópolis",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4748",
+    "nameCity": "Ariranha",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4749",
+    "nameCity": "Artur Nogueira",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4750",
+    "nameCity": "Arujá",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4751",
+    "nameCity": "Aspásia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4752",
+    "nameCity": "Assis",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4753",
+    "nameCity": "Atibaia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4754",
+    "nameCity": "Auriflama",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4755",
+    "nameCity": "Avaí",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4756",
+    "nameCity": "Avanhandava",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4757",
+    "nameCity": "Avaré",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4758",
+    "nameCity": "Bady Bassitt",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4759",
+    "nameCity": "Balbinos",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4760",
+    "nameCity": "Bálsamo",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4761",
+    "nameCity": "Bananal",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4762",
+    "nameCity": "Barão de Antonina",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4763",
+    "nameCity": "Barbosa",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4764",
+    "nameCity": "Bariri",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4765",
+    "nameCity": "Barra Bonita",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4766",
+    "nameCity": "Barra do Chapéu",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4767",
+    "nameCity": "Barra do Turvo",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4768",
+    "nameCity": "Barretos",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4769",
+    "nameCity": "Barrinha",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4770",
+    "nameCity": "Barueri",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4771",
+    "nameCity": "Bastos",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4772",
+    "nameCity": "Batatais",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4773",
+    "nameCity": "Bauru",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4774",
+    "nameCity": "Bebedouro",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4775",
+    "nameCity": "Bento de Abreu",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4776",
+    "nameCity": "Bernardino de Campos",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4777",
+    "nameCity": "Bertioga",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4778",
+    "nameCity": "Bilac",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4779",
+    "nameCity": "Birigui",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4780",
+    "nameCity": "Biritiba-Mirim",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4781",
+    "nameCity": "Boa Esperança do Sul",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4782",
+    "nameCity": "Bocaina",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4783",
+    "nameCity": "Bofete",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4784",
+    "nameCity": "Boituva",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4785",
+    "nameCity": "Bom Jesus dos Perdões",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4786",
+    "nameCity": "Bom Sucesso de Itararé",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4787",
+    "nameCity": "Borá",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4788",
+    "nameCity": "Boracéia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4789",
+    "nameCity": "Borborema",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4790",
+    "nameCity": "Borebi",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4791",
+    "nameCity": "Botucatu",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4792",
+    "nameCity": "Bragança Paulista",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4793",
+    "nameCity": "Braúna",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4794",
+    "nameCity": "Brejo Alegre",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4795",
+    "nameCity": "Brodowski",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4796",
+    "nameCity": "Brotas",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4797",
+    "nameCity": "Buri",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4798",
+    "nameCity": "Buritama",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4799",
+    "nameCity": "Buritizal",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4800",
+    "nameCity": "Cabrália Paulista",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4801",
+    "nameCity": "Cabreúva",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4802",
+    "nameCity": "Caçapava",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4803",
+    "nameCity": "Cachoeira Paulista",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4804",
+    "nameCity": "Caconde",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4805",
+    "nameCity": "Cafelândia",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4806",
+    "nameCity": "Caiabu",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4807",
+    "nameCity": "Caieiras",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4808",
+    "nameCity": "Caiuá",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4809",
+    "nameCity": "Cajamar",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4810",
+    "nameCity": "Cajati",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4811",
+    "nameCity": "Cajobi",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4812",
+    "nameCity": "Cajuru",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4813",
+    "nameCity": "Campina do Monte Alegre",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4814",
+    "nameCity": "Campinas",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4815",
+    "nameCity": "Campo Limpo Paulista",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4816",
+    "nameCity": "Campos do Jordão",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4817",
+    "nameCity": "Campos Novos Paulista",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4818",
+    "nameCity": "Cananéia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4819",
+    "nameCity": "Canas",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4820",
+    "nameCity": "Cândido Mota",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4821",
+    "nameCity": "Cândido Rodrigues",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4822",
+    "nameCity": "Canitar",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4823",
+    "nameCity": "Capão Bonito",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4824",
+    "nameCity": "Capela do Alto",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4825",
+    "nameCity": "Capivari",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4826",
+    "nameCity": "Caraguatatuba",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4827",
+    "nameCity": "Carapicuíba",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4828",
+    "nameCity": "Cardoso",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4829",
+    "nameCity": "Casa Branca",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4830",
+    "nameCity": "Cássia dos Coqueiros",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4831",
+    "nameCity": "Castilho",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4832",
+    "nameCity": "Catanduva",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4833",
+    "nameCity": "Catiguá",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4834",
+    "nameCity": "Cedral",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4835",
+    "nameCity": "Cerqueira César",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4836",
+    "nameCity": "Cerquilho",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4837",
+    "nameCity": "Cesário Lange",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4838",
+    "nameCity": "Charqueada",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4839",
+    "nameCity": "Chavantes",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4840",
+    "nameCity": "Clementina",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4841",
+    "nameCity": "Colina",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4842",
+    "nameCity": "Colômbia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4843",
+    "nameCity": "Conchal",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4844",
+    "nameCity": "Conchas",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4845",
+    "nameCity": "Cordeirópolis",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4846",
+    "nameCity": "Coroados",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4847",
+    "nameCity": "Coronel Macedo",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4848",
+    "nameCity": "Corumbataí",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4849",
+    "nameCity": "Cosmópolis",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4850",
+    "nameCity": "Cosmorama",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4851",
+    "nameCity": "Cotia",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4852",
+    "nameCity": "Cravinhos",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4853",
+    "nameCity": "Cristais Paulista",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4854",
+    "nameCity": "Cruzália",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4855",
+    "nameCity": "Cruzeiro",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4856",
+    "nameCity": "Cubatão",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4857",
+    "nameCity": "Cunha",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4858",
+    "nameCity": "Descalvado",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4859",
+    "nameCity": "Diadema",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4860",
+    "nameCity": "Dirce Reis",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4861",
+    "nameCity": "Divinolândia",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4862",
+    "nameCity": "Dobrada",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4863",
+    "nameCity": "Dois Córregos",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4864",
+    "nameCity": "Dolcinópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4865",
+    "nameCity": "Dourado",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4866",
+    "nameCity": "Dracena",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4867",
+    "nameCity": "Duartina",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4868",
+    "nameCity": "Dumont",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4869",
+    "nameCity": "Echaporã",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4870",
+    "nameCity": "Eldorado",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4871",
+    "nameCity": "Elias Fausto",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4872",
+    "nameCity": "Elisiário",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4873",
+    "nameCity": "Embaúba",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4874",
+    "nameCity": "Embu",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4875",
+    "nameCity": "Embu-Guaçu",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4876",
+    "nameCity": "Emilianópolis",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4877",
+    "nameCity": "Engenheiro Coelho",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4878",
+    "nameCity": "Espírito Santo do Pinhal",
+    "quantityLetters": 24,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4879",
+    "nameCity": "Espírito Santo do Turvo",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4880",
+    "nameCity": "Estiva Gerbi",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4881",
+    "nameCity": "Estrela d`Oeste",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4882",
+    "nameCity": "Estrela do Norte",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4883",
+    "nameCity": "Euclides da Cunha Paulista",
+    "quantityLetters": 26,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4884",
+    "nameCity": "Fartura",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4885",
+    "nameCity": "Fernando Prestes",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4886",
+    "nameCity": "Fernandópolis",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4887",
+    "nameCity": "Fernão",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4888",
+    "nameCity": "Ferraz de Vasconcelos",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4889",
+    "nameCity": "Flora Rica",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4890",
+    "nameCity": "Floreal",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4891",
+    "nameCity": "Flórida Paulista",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4892",
+    "nameCity": "Florínia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4893",
+    "nameCity": "Franca",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4894",
+    "nameCity": "Francisco Morato",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4895",
+    "nameCity": "Franco da Rocha",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4896",
+    "nameCity": "Gabriel Monteiro",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4897",
+    "nameCity": "Gália",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4898",
+    "nameCity": "Garça",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4899",
+    "nameCity": "Gastão Vidigal",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4900",
+    "nameCity": "Gavião Peixoto",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4901",
+    "nameCity": "General Salgado",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4902",
+    "nameCity": "Getulina",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4903",
+    "nameCity": "Glicério",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4904",
+    "nameCity": "Guaiçara",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4905",
+    "nameCity": "Guaimbê",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4906",
+    "nameCity": "Guaíra",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4907",
+    "nameCity": "Guapiaçu",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4908",
+    "nameCity": "Guapiara",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4909",
+    "nameCity": "Guará",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4910",
+    "nameCity": "Guaraçaí",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4911",
+    "nameCity": "Guaraci",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4912",
+    "nameCity": "Guarani d`Oeste",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4913",
+    "nameCity": "Guarantã",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4914",
+    "nameCity": "Guararapes",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4915",
+    "nameCity": "Guararema",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4916",
+    "nameCity": "Guaratinguetá",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4917",
+    "nameCity": "Guareí",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4918",
+    "nameCity": "Guariba",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4919",
+    "nameCity": "Guarujá",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4920",
+    "nameCity": "Guarulhos",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4921",
+    "nameCity": "Guatapará",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4922",
+    "nameCity": "Guzolândia",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4923",
+    "nameCity": "Herculândia",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4924",
+    "nameCity": "Holambra",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4925",
+    "nameCity": "Hortolândia",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4926",
+    "nameCity": "Iacanga",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4927",
+    "nameCity": "Iacri",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4928",
+    "nameCity": "Iaras",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4929",
+    "nameCity": "Ibaté",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4930",
+    "nameCity": "Ibirá",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4931",
+    "nameCity": "Ibirarema",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4932",
+    "nameCity": "Ibitinga",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4933",
+    "nameCity": "Ibiúna",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4934",
+    "nameCity": "Icém",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4935",
+    "nameCity": "Iepê",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4936",
+    "nameCity": "Igaraçu do Tietê",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4937",
+    "nameCity": "Igarapava",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4938",
+    "nameCity": "Igaratá",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4939",
+    "nameCity": "Iguape",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4940",
+    "nameCity": "Ilha Comprida",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4941",
+    "nameCity": "Ilha Solteira",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4942",
+    "nameCity": "Ilhabela",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4943",
+    "nameCity": "Indaiatuba",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4944",
+    "nameCity": "Indiana",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4945",
+    "nameCity": "Indiaporã",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4946",
+    "nameCity": "Inúbia Paulista",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4947",
+    "nameCity": "Ipaussu",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4948",
+    "nameCity": "Iperó",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4949",
+    "nameCity": "Ipeúna",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4950",
+    "nameCity": "Ipiguá",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4951",
+    "nameCity": "Iporanga",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4952",
+    "nameCity": "Ipuã",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4953",
+    "nameCity": "Iracemápolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4954",
+    "nameCity": "Irapuã",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4955",
+    "nameCity": "Irapuru",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4956",
+    "nameCity": "Itaberá",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4957",
+    "nameCity": "Itaí",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4958",
+    "nameCity": "Itajobi",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4959",
+    "nameCity": "Itaju",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4960",
+    "nameCity": "Itanhaém",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4961",
+    "nameCity": "Itaóca",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4962",
+    "nameCity": "Itapecerica da Serra",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4963",
+    "nameCity": "Itapetininga",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4964",
+    "nameCity": "Itapeva",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4965",
+    "nameCity": "Itapevi",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4966",
+    "nameCity": "Itapira",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4967",
+    "nameCity": "Itapirapuã Paulista",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4968",
+    "nameCity": "Itápolis",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4969",
+    "nameCity": "Itaporanga",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4970",
+    "nameCity": "Itapuí",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4971",
+    "nameCity": "Itapura",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4972",
+    "nameCity": "Itaquaquecetuba",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4973",
+    "nameCity": "Itararé",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4974",
+    "nameCity": "Itariri",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4975",
+    "nameCity": "Itatiba",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4976",
+    "nameCity": "Itatinga",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4977",
+    "nameCity": "Itirapina",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4978",
+    "nameCity": "Itirapuã",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4979",
+    "nameCity": "Itobi",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4980",
+    "nameCity": "Itu",
+    "quantityLetters": 3,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4981",
+    "nameCity": "Itupeva",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4982",
+    "nameCity": "Ituverava",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4983",
+    "nameCity": "Jaborandi",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4984",
+    "nameCity": "Jaboticabal",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4985",
+    "nameCity": "Jacareí",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4986",
+    "nameCity": "Jaci",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4987",
+    "nameCity": "Jacupiranga",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4988",
+    "nameCity": "Jaguariúna",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4989",
+    "nameCity": "Jales",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4990",
+    "nameCity": "Jambeiro",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4991",
+    "nameCity": "Jandira",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4992",
+    "nameCity": "Jardinópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4993",
+    "nameCity": "Jarinu",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4994",
+    "nameCity": "Jaú",
+    "quantityLetters": 3,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4995",
+    "nameCity": "Jeriquara",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4996",
+    "nameCity": "Joanópolis",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4997",
+    "nameCity": "João Ramalho",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4998",
+    "nameCity": "José Bonifácio",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "4999",
+    "nameCity": "Júlio Mesquita",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5000",
+    "nameCity": "Jumirim",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5001",
+    "nameCity": "Jundiaí",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5002",
+    "nameCity": "Junqueirópolis",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5003",
+    "nameCity": "Juquiá",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5004",
+    "nameCity": "Juquitiba",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5005",
+    "nameCity": "Lagoinha",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5006",
+    "nameCity": "Laranjal Paulista",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5007",
+    "nameCity": "Lavínia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5008",
+    "nameCity": "Lavrinhas",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5009",
+    "nameCity": "Leme",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5010",
+    "nameCity": "Lençóis Paulista",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5011",
+    "nameCity": "Limeira",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5012",
+    "nameCity": "Lindóia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5013",
+    "nameCity": "Lins",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5014",
+    "nameCity": "Lorena",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5015",
+    "nameCity": "Lourdes",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5016",
+    "nameCity": "Louveira",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5017",
+    "nameCity": "Lucélia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5018",
+    "nameCity": "Lucianópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5019",
+    "nameCity": "Luís Antônio",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5020",
+    "nameCity": "Luiziânia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5021",
+    "nameCity": "Lupércio",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5022",
+    "nameCity": "Lutécia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5023",
+    "nameCity": "Macatuba",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5024",
+    "nameCity": "Macaubal",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5025",
+    "nameCity": "Macedônia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5026",
+    "nameCity": "Magda",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5027",
+    "nameCity": "Mairinque",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5028",
+    "nameCity": "Mairiporã",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5029",
+    "nameCity": "Manduri",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5030",
+    "nameCity": "Marabá Paulista",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5031",
+    "nameCity": "Maracaí",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5032",
+    "nameCity": "Marapoama",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5033",
+    "nameCity": "Mariápolis",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5034",
+    "nameCity": "Marília",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5035",
+    "nameCity": "Marinópolis",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5036",
+    "nameCity": "Martinópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5037",
+    "nameCity": "Matão",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5038",
+    "nameCity": "Mauá",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5039",
+    "nameCity": "Mendonça",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5040",
+    "nameCity": "Meridiano",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5041",
+    "nameCity": "Mesópolis",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5042",
+    "nameCity": "Miguelópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5043",
+    "nameCity": "Mineiros do Tietê",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5044",
+    "nameCity": "Mira Estrela",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5045",
+    "nameCity": "Miracatu",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5046",
+    "nameCity": "Mirandópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5047",
+    "nameCity": "Mirante do Paranapanema",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5048",
+    "nameCity": "Mirassol",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5049",
+    "nameCity": "Mirassolândia",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5050",
+    "nameCity": "Mococa",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5051",
+    "nameCity": "Mogi das Cruzes",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5052",
+    "nameCity": "Mogi Guaçu",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5053",
+    "nameCity": "Moji Mirim",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5054",
+    "nameCity": "Mombuca",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5055",
+    "nameCity": "Monções",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5056",
+    "nameCity": "Mongaguá",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5057",
+    "nameCity": "Monte Alegre do Sul",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5058",
+    "nameCity": "Monte Alto",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5059",
+    "nameCity": "Monte Aprazível",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5060",
+    "nameCity": "Monte Azul Paulista",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5061",
+    "nameCity": "Monte Castelo",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5062",
+    "nameCity": "Monte Mor",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5063",
+    "nameCity": "Monteiro Lobato",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5064",
+    "nameCity": "Morro Agudo",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5065",
+    "nameCity": "Morungaba",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5066",
+    "nameCity": "Motuca",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5067",
+    "nameCity": "Murutinga do Sul",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5068",
+    "nameCity": "Nantes",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5069",
+    "nameCity": "Narandiba",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5070",
+    "nameCity": "Natividade da Serra",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5071",
+    "nameCity": "Nazaré Paulista",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5072",
+    "nameCity": "Neves Paulista",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5073",
+    "nameCity": "Nhandeara",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5074",
+    "nameCity": "Nipoã",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5075",
+    "nameCity": "Nova Aliança",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5076",
+    "nameCity": "Nova Campina",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5077",
+    "nameCity": "Nova Canaã Paulista",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5078",
+    "nameCity": "Nova Castilho",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5079",
+    "nameCity": "Nova Europa",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5080",
+    "nameCity": "Nova Granada",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5081",
+    "nameCity": "Nova Guataporanga",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5082",
+    "nameCity": "Nova Independência",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5083",
+    "nameCity": "Nova Luzitânia",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5084",
+    "nameCity": "Nova Odessa",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5085",
+    "nameCity": "Novais",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5086",
+    "nameCity": "Novo Horizonte",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5087",
+    "nameCity": "Nuporanga",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5088",
+    "nameCity": "Ocauçu",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5089",
+    "nameCity": "Óleo",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5090",
+    "nameCity": "Olímpia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5091",
+    "nameCity": "Onda Verde",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5092",
+    "nameCity": "Oriente",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5093",
+    "nameCity": "Orindiúva",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5094",
+    "nameCity": "Orlândia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5095",
+    "nameCity": "Osasco",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5096",
+    "nameCity": "Oscar Bressane",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5097",
+    "nameCity": "Osvaldo Cruz",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5098",
+    "nameCity": "Ourinhos",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5099",
+    "nameCity": "Ouro Verde",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5100",
+    "nameCity": "Ouroeste",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5101",
+    "nameCity": "Pacaembu",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5102",
+    "nameCity": "Palestina",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5103",
+    "nameCity": "Palmares Paulista",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5104",
+    "nameCity": "Palmeira d`Oeste",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5105",
+    "nameCity": "Palmital",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5106",
+    "nameCity": "Panorama",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5107",
+    "nameCity": "Paraguaçu Paulista",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5108",
+    "nameCity": "Paraibuna",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5109",
+    "nameCity": "Paraíso",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5110",
+    "nameCity": "Paranapanema",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5111",
+    "nameCity": "Paranapuã",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5112",
+    "nameCity": "Parapuã",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5113",
+    "nameCity": "Pardinho",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5114",
+    "nameCity": "Pariquera-Açu",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5115",
+    "nameCity": "Parisi",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5116",
+    "nameCity": "Patrocínio Paulista",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5117",
+    "nameCity": "Paulicéia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5118",
+    "nameCity": "Paulínia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5119",
+    "nameCity": "Paulistânia",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5120",
+    "nameCity": "Paulo de Faria",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5121",
+    "nameCity": "Pederneiras",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5122",
+    "nameCity": "Pedra Bela",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5123",
+    "nameCity": "Pedranópolis",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5124",
+    "nameCity": "Pedregulho",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5125",
+    "nameCity": "Pedreira",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5126",
+    "nameCity": "Pedrinhas Paulista",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5127",
+    "nameCity": "Pedro de Toledo",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5128",
+    "nameCity": "Penápolis",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5129",
+    "nameCity": "Pereira Barreto",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5130",
+    "nameCity": "Pereiras",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5131",
+    "nameCity": "Peruíbe",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5132",
+    "nameCity": "Piacatu",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5133",
+    "nameCity": "Piedade",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5134",
+    "nameCity": "Pilar do Sul",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5135",
+    "nameCity": "Pindamonhangaba",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5136",
+    "nameCity": "Pindorama",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5137",
+    "nameCity": "Pinhalzinho",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5138",
+    "nameCity": "Piquerobi",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5139",
+    "nameCity": "Piquete",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5140",
+    "nameCity": "Piracaia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5141",
+    "nameCity": "Piracicaba",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5142",
+    "nameCity": "Piraju",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5143",
+    "nameCity": "Pirajuí",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5144",
+    "nameCity": "Pirangi",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5145",
+    "nameCity": "Pirapora do Bom Jesus",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5146",
+    "nameCity": "Pirapozinho",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5147",
+    "nameCity": "Pirassununga",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5148",
+    "nameCity": "Piratininga",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5149",
+    "nameCity": "Pitangueiras",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5150",
+    "nameCity": "Planalto",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5151",
+    "nameCity": "Platina",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5152",
+    "nameCity": "Poá",
+    "quantityLetters": 3,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5153",
+    "nameCity": "Poloni",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5154",
+    "nameCity": "Pompéia",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5155",
+    "nameCity": "Pongaí",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5156",
+    "nameCity": "Pontal",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5157",
+    "nameCity": "Pontalinda",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5158",
+    "nameCity": "Pontes Gestal",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5159",
+    "nameCity": "Populina",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5160",
+    "nameCity": "Porangaba",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5161",
+    "nameCity": "Porto Feliz",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5162",
+    "nameCity": "Porto Ferreira",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5163",
+    "nameCity": "Potim",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5164",
+    "nameCity": "Potirendaba",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5165",
+    "nameCity": "Pracinha",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5166",
+    "nameCity": "Pradópolis",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5167",
+    "nameCity": "Praia Grande",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5168",
+    "nameCity": "Pratânia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5169",
+    "nameCity": "Presidente Alves",
+    "quantityLetters": 16,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5170",
+    "nameCity": "Presidente Bernardes",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5171",
+    "nameCity": "Presidente Epitácio",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5172",
+    "nameCity": "Presidente Prudente",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5173",
+    "nameCity": "Presidente Venceslau",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5174",
+    "nameCity": "Promissão",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5175",
+    "nameCity": "Quadra",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5176",
+    "nameCity": "Quatá",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5177",
+    "nameCity": "Queiroz",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5178",
+    "nameCity": "Queluz",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5179",
+    "nameCity": "Quintana",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5180",
+    "nameCity": "Rafard",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5181",
+    "nameCity": "Rancharia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5182",
+    "nameCity": "Redenção da Serra",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5183",
+    "nameCity": "Regente Feijó",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5184",
+    "nameCity": "Reginópolis",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5185",
+    "nameCity": "Registro",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5186",
+    "nameCity": "Restinga",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5187",
+    "nameCity": "Ribeira",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5188",
+    "nameCity": "Ribeirão Bonito",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5189",
+    "nameCity": "Ribeirão Branco",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5190",
+    "nameCity": "Ribeirão Corrente",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5191",
+    "nameCity": "Ribeirão do Sul",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5192",
+    "nameCity": "Ribeirão dos Índios",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5193",
+    "nameCity": "Ribeirão Grande",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5194",
+    "nameCity": "Ribeirão Pires",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5195",
+    "nameCity": "Ribeirão Preto",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5196",
+    "nameCity": "Rifaina",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5197",
+    "nameCity": "Rincão",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5198",
+    "nameCity": "Rinópolis",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5199",
+    "nameCity": "Rio Claro",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5200",
+    "nameCity": "Rio das Pedras",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5201",
+    "nameCity": "Rio Grande da Serra",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5202",
+    "nameCity": "Riolândia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5203",
+    "nameCity": "Riversul",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5204",
+    "nameCity": "Rosana",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5205",
+    "nameCity": "Roseira",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5206",
+    "nameCity": "Rubiácea",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5207",
+    "nameCity": "Rubinéia",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5208",
+    "nameCity": "Sabino",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5209",
+    "nameCity": "Sagres",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5210",
+    "nameCity": "Sales",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5211",
+    "nameCity": "Sales Oliveira",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5212",
+    "nameCity": "Salesópolis",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5213",
+    "nameCity": "Salmourão",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5214",
+    "nameCity": "Saltinho",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5215",
+    "nameCity": "Salto",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5216",
+    "nameCity": "Salto de Pirapora",
+    "quantityLetters": 17,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5217",
+    "nameCity": "Salto Grande",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5218",
+    "nameCity": "Sandovalina",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5219",
+    "nameCity": "Santa Adélia",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5220",
+    "nameCity": "Santa Albertina",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5221",
+    "nameCity": "Santa Bárbara d`Oeste",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5222",
+    "nameCity": "Santa Branca",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5223",
+    "nameCity": "Santa Clara d`Oeste",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5224",
+    "nameCity": "Santa Cruz da Conceição",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5225",
+    "nameCity": "Santa Cruz da Esperança",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5226",
+    "nameCity": "Santa Cruz das Palmeiras",
+    "quantityLetters": 24,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5227",
+    "nameCity": "Santa Cruz do Rio Pardo",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5228",
+    "nameCity": "Santa Ernestina",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5229",
+    "nameCity": "Santa Fé do Sul",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5230",
+    "nameCity": "Santa Gertrudes",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5231",
+    "nameCity": "Santa Isabel",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5232",
+    "nameCity": "Santa Lúcia",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5233",
+    "nameCity": "Santa Maria da Serra",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5234",
+    "nameCity": "Santa Mercedes",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5235",
+    "nameCity": "Santa Rita d`Oeste",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5236",
+    "nameCity": "Santa Rita do Passa Quatro",
+    "quantityLetters": 26,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5237",
+    "nameCity": "Santa Rosa de Viterbo",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5238",
+    "nameCity": "Santa Salete",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5239",
+    "nameCity": "Santana da Ponte Pensa",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5240",
+    "nameCity": "Santana de Parnaíba",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5241",
+    "nameCity": "Santo Anastácio",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5242",
+    "nameCity": "Santo André",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5243",
+    "nameCity": "Santo Antônio da Alegria",
+    "quantityLetters": 24,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5244",
+    "nameCity": "Santo Antônio de Posse",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5245",
+    "nameCity": "Santo Antônio do Aracanguá",
+    "quantityLetters": 26,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5246",
+    "nameCity": "Santo Antônio do Jardim",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5247",
+    "nameCity": "Santo Antônio do Pinhal",
+    "quantityLetters": 23,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5248",
+    "nameCity": "Santo Expedito",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5249",
+    "nameCity": "Santópolis do Aguapeí",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5250",
+    "nameCity": "Santos",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5251",
+    "nameCity": "São Bento do Sapucaí",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5252",
+    "nameCity": "São Bernardo do Campo",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5253",
+    "nameCity": "São Caetano do Sul",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5254",
+    "nameCity": "São Carlos",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5255",
+    "nameCity": "São Francisco",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5256",
+    "nameCity": "São João da Boa Vista",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5257",
+    "nameCity": "São João das Duas Pontes",
+    "quantityLetters": 24,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5258",
+    "nameCity": "São João de Iracema",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5259",
+    "nameCity": "São João do Pau d`Alho",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5260",
+    "nameCity": "São Joaquim da Barra",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5261",
+    "nameCity": "São José da Bela Vista",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5262",
+    "nameCity": "São José do Barreiro",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5263",
+    "nameCity": "São José do Rio Pardo",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5264",
+    "nameCity": "São José do Rio Preto",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5265",
+    "nameCity": "São José dos Campos",
+    "quantityLetters": 19,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5266",
+    "nameCity": "São Lourenço da Serra",
+    "quantityLetters": 21,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5267",
+    "nameCity": "São Luís do Paraitinga",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5268",
+    "nameCity": "São Manuel",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5269",
+    "nameCity": "São Miguel Arcanjo",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5270",
+    "nameCity": "São Paulo",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5271",
+    "nameCity": "São Pedro",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5272",
+    "nameCity": "São Pedro do Turvo",
+    "quantityLetters": 18,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5273",
+    "nameCity": "São Roque",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5274",
+    "nameCity": "São Sebastião",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5275",
+    "nameCity": "São Sebastião da Grama",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5276",
+    "nameCity": "São Simão",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5277",
+    "nameCity": "São Vicente",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5278",
+    "nameCity": "Sarapuí",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5279",
+    "nameCity": "Sarutaiá",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5280",
+    "nameCity": "Sebastianópolis do Sul",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5281",
+    "nameCity": "Serra Azul",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5282",
+    "nameCity": "Serra Negra",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5283",
+    "nameCity": "Serrana",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5284",
+    "nameCity": "Sertãozinho",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5285",
+    "nameCity": "Sete Barras",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5286",
+    "nameCity": "Severínia",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5287",
+    "nameCity": "Silveiras",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5288",
+    "nameCity": "Socorro",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5289",
+    "nameCity": "Sorocaba",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5290",
+    "nameCity": "Sud Mennucci",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5291",
+    "nameCity": "Sumaré",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5292",
+    "nameCity": "Suzanápolis",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5293",
+    "nameCity": "Suzano",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5294",
+    "nameCity": "Tabapuã",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5295",
+    "nameCity": "Tabatinga",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5296",
+    "nameCity": "Taboão da Serra",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5297",
+    "nameCity": "Taciba",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5298",
+    "nameCity": "Taguaí",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5299",
+    "nameCity": "Taiaçu",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5300",
+    "nameCity": "Taiúva",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5301",
+    "nameCity": "Tambaú",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5302",
+    "nameCity": "Tanabi",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5303",
+    "nameCity": "Tapiraí",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5304",
+    "nameCity": "Tapiratiba",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5305",
+    "nameCity": "Taquaral",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5306",
+    "nameCity": "Taquaritinga",
+    "quantityLetters": 12,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5307",
+    "nameCity": "Taquarituba",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5308",
+    "nameCity": "Taquarivaí",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5309",
+    "nameCity": "Tarabai",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5310",
+    "nameCity": "Tarumã",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5311",
+    "nameCity": "Tatuí",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5312",
+    "nameCity": "Taubaté",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5313",
+    "nameCity": "Tejupá",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5314",
+    "nameCity": "Teodoro Sampaio",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5315",
+    "nameCity": "Terra Roxa",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5316",
+    "nameCity": "Tietê",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5317",
+    "nameCity": "Timburi",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5318",
+    "nameCity": "Torre de Pedra",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5319",
+    "nameCity": "Torrinha",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5320",
+    "nameCity": "Trabiju",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5321",
+    "nameCity": "Tremembé",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5322",
+    "nameCity": "Três Fronteiras",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5323",
+    "nameCity": "Tuiuti",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5324",
+    "nameCity": "Tupã",
+    "quantityLetters": 4,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5325",
+    "nameCity": "Tupi Paulista",
+    "quantityLetters": 13,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5326",
+    "nameCity": "Turiúba",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5327",
+    "nameCity": "Turmalina",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5328",
+    "nameCity": "Ubarana",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5329",
+    "nameCity": "Ubatuba",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5330",
+    "nameCity": "Ubirajara",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5331",
+    "nameCity": "Uchoa",
+    "quantityLetters": 5,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5332",
+    "nameCity": "União Paulista",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5333",
+    "nameCity": "Urânia",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5334",
+    "nameCity": "Uru",
+    "quantityLetters": 3,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5335",
+    "nameCity": "Urupês",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5336",
+    "nameCity": "Valentim Gentil",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5337",
+    "nameCity": "Valinhos",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5338",
+    "nameCity": "Valparaíso",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5339",
+    "nameCity": "Vargem",
+    "quantityLetters": 6,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5340",
+    "nameCity": "Vargem Grande do Sul",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5341",
+    "nameCity": "Vargem Grande Paulista",
+    "quantityLetters": 22,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5342",
+    "nameCity": "Várzea Paulista",
+    "quantityLetters": 15,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5343",
+    "nameCity": "Vera Cruz",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5344",
+    "nameCity": "Vinhedo",
+    "quantityLetters": 7,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5345",
+    "nameCity": "Viradouro",
+    "quantityLetters": 9,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5346",
+    "nameCity": "Vista Alegre do Alto",
+    "quantityLetters": 20,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5347",
+    "nameCity": "Vitória Brasil",
+    "quantityLetters": 14,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5348",
+    "nameCity": "Votorantim",
+    "quantityLetters": 10,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5349",
+    "nameCity": "Votuporanga",
+    "quantityLetters": 11,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  },
+  {
+    "id": "5350",
+    "nameCity": "Zacarias",
+    "quantityLetters": 8,
+    "state": "SP",
+    "nameState": "São Paulo",
+    "stateID": "26"
+  }
+]

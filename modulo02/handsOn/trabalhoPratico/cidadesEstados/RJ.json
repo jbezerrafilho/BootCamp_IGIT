@@ -1,0 +1,738 @@
+[
+  {
+    "id": "3591",
+    "nameCity": "Angra dos Reis",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3592",
+    "nameCity": "Aperibé",
+    "quantityLetters": 7,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3593",
+    "nameCity": "Araruama",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3594",
+    "nameCity": "Areal",
+    "quantityLetters": 5,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3595",
+    "nameCity": "Armação dos Búzios",
+    "quantityLetters": 18,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3596",
+    "nameCity": "Arraial do Cabo",
+    "quantityLetters": 15,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3597",
+    "nameCity": "Barra do Piraí",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3598",
+    "nameCity": "Barra Mansa",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3599",
+    "nameCity": "Belford Roxo",
+    "quantityLetters": 12,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3600",
+    "nameCity": "Bom Jardim",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3601",
+    "nameCity": "Bom Jesus do Itabapoana",
+    "quantityLetters": 23,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3602",
+    "nameCity": "Cabo Frio",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3603",
+    "nameCity": "Cachoeiras de Macacu",
+    "quantityLetters": 20,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3604",
+    "nameCity": "Cambuci",
+    "quantityLetters": 7,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3605",
+    "nameCity": "Campos dos Goytacazes",
+    "quantityLetters": 21,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3606",
+    "nameCity": "Cantagalo",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3607",
+    "nameCity": "Carapebus",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3608",
+    "nameCity": "Cardoso Moreira",
+    "quantityLetters": 15,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3609",
+    "nameCity": "Carmo",
+    "quantityLetters": 5,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3610",
+    "nameCity": "Casimiro de Abreu",
+    "quantityLetters": 17,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3611",
+    "nameCity": "Comendador Levy Gasparian",
+    "quantityLetters": 25,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3612",
+    "nameCity": "Conceição de Macabu",
+    "quantityLetters": 19,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3613",
+    "nameCity": "Cordeiro",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3614",
+    "nameCity": "Duas Barras",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3615",
+    "nameCity": "Duque de Caxias",
+    "quantityLetters": 15,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3616",
+    "nameCity": "Engenheiro Paulo de Frontin",
+    "quantityLetters": 27,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3617",
+    "nameCity": "Guapimirim",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3618",
+    "nameCity": "Iguaba Grande",
+    "quantityLetters": 13,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3619",
+    "nameCity": "Itaboraí",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3620",
+    "nameCity": "Itaguaí",
+    "quantityLetters": 7,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3621",
+    "nameCity": "Italva",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3622",
+    "nameCity": "Itaocara",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3623",
+    "nameCity": "Itaperuna",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3624",
+    "nameCity": "Itatiaia",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3625",
+    "nameCity": "Japeri",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3626",
+    "nameCity": "Laje do Muriaé",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3627",
+    "nameCity": "Macaé",
+    "quantityLetters": 5,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3628",
+    "nameCity": "Macuco",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3629",
+    "nameCity": "Magé",
+    "quantityLetters": 4,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3630",
+    "nameCity": "Mangaratiba",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3631",
+    "nameCity": "Maricá",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3632",
+    "nameCity": "Mendes",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3633",
+    "nameCity": "Mesquita",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3634",
+    "nameCity": "Miguel Pereira",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3635",
+    "nameCity": "Miracema",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3636",
+    "nameCity": "Natividade",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3637",
+    "nameCity": "Nilópolis",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3638",
+    "nameCity": "Niterói",
+    "quantityLetters": 7,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3639",
+    "nameCity": "Nova Friburgo",
+    "quantityLetters": 13,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3640",
+    "nameCity": "Nova Iguaçu",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3641",
+    "nameCity": "Paracambi",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3642",
+    "nameCity": "Paraíba do Sul",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3643",
+    "nameCity": "Parati",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3644",
+    "nameCity": "Paty do Alferes",
+    "quantityLetters": 15,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3645",
+    "nameCity": "Petrópolis",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3646",
+    "nameCity": "Pinheiral",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3647",
+    "nameCity": "Piraí",
+    "quantityLetters": 5,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3648",
+    "nameCity": "Porciúncula",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3649",
+    "nameCity": "Porto Real",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3650",
+    "nameCity": "Quatis",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3651",
+    "nameCity": "Queimados",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3652",
+    "nameCity": "Quissamã",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3653",
+    "nameCity": "Resende",
+    "quantityLetters": 7,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3654",
+    "nameCity": "Rio Bonito",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3655",
+    "nameCity": "Rio Claro",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3656",
+    "nameCity": "Rio das Flores",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3657",
+    "nameCity": "Rio das Ostras",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3658",
+    "nameCity": "Rio de Janeiro",
+    "quantityLetters": 14,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3659",
+    "nameCity": "Santa Maria Madalena",
+    "quantityLetters": 20,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3660",
+    "nameCity": "Santo Antônio de Pádua",
+    "quantityLetters": 22,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3661",
+    "nameCity": "São Fidélis",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3662",
+    "nameCity": "São Francisco de Itabapoana",
+    "quantityLetters": 27,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3663",
+    "nameCity": "São Gonçalo",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3664",
+    "nameCity": "São João da Barra",
+    "quantityLetters": 17,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3665",
+    "nameCity": "São João de Meriti",
+    "quantityLetters": 18,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3666",
+    "nameCity": "São José de Ubá",
+    "quantityLetters": 15,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3667",
+    "nameCity": "São José do Vale do Rio Pret",
+    "quantityLetters": 28,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3668",
+    "nameCity": "São Pedro da Aldeia",
+    "quantityLetters": 19,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3669",
+    "nameCity": "São Sebastião do Alto",
+    "quantityLetters": 21,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3670",
+    "nameCity": "Sapucaia",
+    "quantityLetters": 8,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3671",
+    "nameCity": "Saquarema",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3672",
+    "nameCity": "Seropédica",
+    "quantityLetters": 10,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3673",
+    "nameCity": "Silva Jardim",
+    "quantityLetters": 12,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3674",
+    "nameCity": "Sumidouro",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3675",
+    "nameCity": "Tanguá",
+    "quantityLetters": 6,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3676",
+    "nameCity": "Teresópolis",
+    "quantityLetters": 11,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3677",
+    "nameCity": "Trajano de Morais",
+    "quantityLetters": 17,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3678",
+    "nameCity": "Três Rios",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3679",
+    "nameCity": "Valença",
+    "quantityLetters": 7,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3680",
+    "nameCity": "Varre-Sai",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3681",
+    "nameCity": "Vassouras",
+    "quantityLetters": 9,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  },
+  {
+    "id": "3682",
+    "nameCity": "Volta Redonda",
+    "quantityLetters": 13,
+    "state": "RJ",
+    "nameState": "Rio de Janeiro",
+    "stateID": "19"
+  }
+]

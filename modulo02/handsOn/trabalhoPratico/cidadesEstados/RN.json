@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "3683",
+    "nameCity": "Acari",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3684",
+    "nameCity": "Açu",
+    "quantityLetters": 3,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3685",
+    "nameCity": "Afonso Bezerra",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3686",
+    "nameCity": "Água Nova",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3687",
+    "nameCity": "Alexandria",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3688",
+    "nameCity": "Almino Afonso",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3689",
+    "nameCity": "Alto do Rodrigues",
+    "quantityLetters": 17,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3690",
+    "nameCity": "Angicos",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3691",
+    "nameCity": "Antônio Martins",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3692",
+    "nameCity": "Apodi",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3693",
+    "nameCity": "Areia Branca",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3694",
+    "nameCity": "Arês",
+    "quantityLetters": 4,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3695",
+    "nameCity": "Augusto Severo",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3696",
+    "nameCity": "Baía Formosa",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3697",
+    "nameCity": "Baraúna",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3698",
+    "nameCity": "Barcelona",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3699",
+    "nameCity": "Bento Fernandes",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3700",
+    "nameCity": "Bodó",
+    "quantityLetters": 4,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3701",
+    "nameCity": "Bom Jesus",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3702",
+    "nameCity": "Brejinho",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3703",
+    "nameCity": "Caiçara do Norte",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3704",
+    "nameCity": "Caiçara do Rio do Vento",
+    "quantityLetters": 23,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3705",
+    "nameCity": "Caicó",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3706",
+    "nameCity": "Campo Redondo",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3707",
+    "nameCity": "Canguaretama",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3708",
+    "nameCity": "Caraúbas",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3709",
+    "nameCity": "Carnaúba dos Dantas",
+    "quantityLetters": 19,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3710",
+    "nameCity": "Carnaubais",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3711",
+    "nameCity": "Ceará-Mirim",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3712",
+    "nameCity": "Cerro Corá",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3713",
+    "nameCity": "Coronel Ezequiel",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3714",
+    "nameCity": "Coronel João Pessoa",
+    "quantityLetters": 19,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3715",
+    "nameCity": "Cruzeta",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3716",
+    "nameCity": "Currais Novos",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3717",
+    "nameCity": "Doutor Severiano",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3718",
+    "nameCity": "Encanto",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3719",
+    "nameCity": "Equador",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3720",
+    "nameCity": "Espírito Santo",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3721",
+    "nameCity": "Extremoz",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3722",
+    "nameCity": "Felipe Guerra",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3723",
+    "nameCity": "Fernando Pedroza",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3724",
+    "nameCity": "Florânia",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3725",
+    "nameCity": "Francisco Dantas",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3726",
+    "nameCity": "Frutuoso Gomes",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3727",
+    "nameCity": "Galinhos",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3728",
+    "nameCity": "Goianinha",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3729",
+    "nameCity": "Governador Dix-Sept Rosado",
+    "quantityLetters": 26,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3730",
+    "nameCity": "Grossos",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3731",
+    "nameCity": "Guamaré",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3732",
+    "nameCity": "Ielmo Marinho",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3733",
+    "nameCity": "Ipanguaçu",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3734",
+    "nameCity": "Ipueira",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3735",
+    "nameCity": "Itajá",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3736",
+    "nameCity": "Itaú",
+    "quantityLetters": 4,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3737",
+    "nameCity": "Jaçanã",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3738",
+    "nameCity": "Jandaíra",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3739",
+    "nameCity": "Janduís",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3740",
+    "nameCity": "Januário Cicco",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3741",
+    "nameCity": "Japi",
+    "quantityLetters": 4,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3742",
+    "nameCity": "Jardim de Angicos",
+    "quantityLetters": 17,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3743",
+    "nameCity": "Jardim de Piranhas",
+    "quantityLetters": 18,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3744",
+    "nameCity": "Jardim do Seridó",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3745",
+    "nameCity": "João Câmara",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3746",
+    "nameCity": "João Dias",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3747",
+    "nameCity": "José da Penha",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3748",
+    "nameCity": "Jucurutu",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3749",
+    "nameCity": "Jundiá",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3750",
+    "nameCity": "Lagoa d`Anta",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3751",
+    "nameCity": "Lagoa de Pedras",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3752",
+    "nameCity": "Lagoa de Velhos",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3753",
+    "nameCity": "Lagoa Nova",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3754",
+    "nameCity": "Lagoa Salgada",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3755",
+    "nameCity": "Lajes",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3756",
+    "nameCity": "Lajes Pintadas",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3757",
+    "nameCity": "Lucrécia",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3758",
+    "nameCity": "Luís Gomes",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3759",
+    "nameCity": "Macaíba",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3760",
+    "nameCity": "Macau",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3761",
+    "nameCity": "Major Sales",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3762",
+    "nameCity": "Marcelino Vieira",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3763",
+    "nameCity": "Martins",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3764",
+    "nameCity": "Maxaranguape",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3765",
+    "nameCity": "Messias Targino",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3766",
+    "nameCity": "Montanhas",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3767",
+    "nameCity": "Monte Alegre",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3768",
+    "nameCity": "Monte das Gameleiras",
+    "quantityLetters": 20,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3769",
+    "nameCity": "Mossoró",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3770",
+    "nameCity": "Natal",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3771",
+    "nameCity": "Nísia Floresta",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3772",
+    "nameCity": "Nova Cruz",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3773",
+    "nameCity": "Olho-d`Água do Borges",
+    "quantityLetters": 21,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3774",
+    "nameCity": "Ouro Branco",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3775",
+    "nameCity": "Paraná",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3776",
+    "nameCity": "Paraú",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3777",
+    "nameCity": "Parazinho",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3778",
+    "nameCity": "Parelhas",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3779",
+    "nameCity": "Parnamirim",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3780",
+    "nameCity": "Passa e Fica",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3781",
+    "nameCity": "Passagem",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3782",
+    "nameCity": "Patu",
+    "quantityLetters": 4,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3783",
+    "nameCity": "Pau dos Ferros",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3784",
+    "nameCity": "Pedra Grande",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3785",
+    "nameCity": "Pedra Preta",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3786",
+    "nameCity": "Pedro Avelino",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3787",
+    "nameCity": "Pedro Velho",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3788",
+    "nameCity": "Pendências",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3789",
+    "nameCity": "Pilões",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3790",
+    "nameCity": "Poço Branco",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3791",
+    "nameCity": "Portalegre",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3792",
+    "nameCity": "Porto do Mangue",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3793",
+    "nameCity": "Presidente Juscelino",
+    "quantityLetters": 20,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3794",
+    "nameCity": "Pureza",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3795",
+    "nameCity": "Rafael Fernandes",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3796",
+    "nameCity": "Rafael Godeiro",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3797",
+    "nameCity": "Riacho da Cruz",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3798",
+    "nameCity": "Riacho de Santana",
+    "quantityLetters": 17,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3799",
+    "nameCity": "Riachuelo",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3800",
+    "nameCity": "Rio do Fogo",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3801",
+    "nameCity": "Rodolfo Fernandes",
+    "quantityLetters": 17,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3802",
+    "nameCity": "Ruy Barbosa",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3803",
+    "nameCity": "Santa Cruz",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3804",
+    "nameCity": "Santa Maria",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3805",
+    "nameCity": "Santana do Matos",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3806",
+    "nameCity": "Santana do Seridó",
+    "quantityLetters": 17,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3807",
+    "nameCity": "Santo Antônio",
+    "quantityLetters": 13,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3808",
+    "nameCity": "São Bento do Norte",
+    "quantityLetters": 18,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3809",
+    "nameCity": "São Bento do Trairí",
+    "quantityLetters": 19,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3810",
+    "nameCity": "São Fernando",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3811",
+    "nameCity": "São Francisco do Oeste",
+    "quantityLetters": 22,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3812",
+    "nameCity": "São Gonçalo do Amarante",
+    "quantityLetters": 23,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3813",
+    "nameCity": "São João do Sabugi",
+    "quantityLetters": 18,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3814",
+    "nameCity": "São José de Mipibu",
+    "quantityLetters": 18,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3815",
+    "nameCity": "São José do Campestre",
+    "quantityLetters": 21,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3816",
+    "nameCity": "São José do Seridó",
+    "quantityLetters": 18,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3817",
+    "nameCity": "São Miguel",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3818",
+    "nameCity": "São Miguel do Gostoso",
+    "quantityLetters": 21,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3819",
+    "nameCity": "São Paulo do Potengi",
+    "quantityLetters": 20,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3820",
+    "nameCity": "São Pedro",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3821",
+    "nameCity": "São Rafael",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3822",
+    "nameCity": "São Tomé",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3823",
+    "nameCity": "São Vicente",
+    "quantityLetters": 11,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3824",
+    "nameCity": "Senador Elói de Souza",
+    "quantityLetters": 21,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3825",
+    "nameCity": "Senador Georgino Avelino",
+    "quantityLetters": 24,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3826",
+    "nameCity": "Serra de São Bento",
+    "quantityLetters": 18,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3827",
+    "nameCity": "Serra do Mel",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3828",
+    "nameCity": "Serra Negra do Norte",
+    "quantityLetters": 20,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3829",
+    "nameCity": "Serrinha",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3830",
+    "nameCity": "Serrinha dos Pintos",
+    "quantityLetters": 19,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3831",
+    "nameCity": "Severiano Melo",
+    "quantityLetters": 14,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3832",
+    "nameCity": "Sítio Novo",
+    "quantityLetters": 10,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3833",
+    "nameCity": "Taboleiro Grande",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3834",
+    "nameCity": "Taipu",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3835",
+    "nameCity": "Tangará",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3836",
+    "nameCity": "Tenente Ananias",
+    "quantityLetters": 15,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3837",
+    "nameCity": "Tenente Laurentino Cruz",
+    "quantityLetters": 23,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3838",
+    "nameCity": "Tibau",
+    "quantityLetters": 5,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3839",
+    "nameCity": "Tibau do Sul",
+    "quantityLetters": 12,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3840",
+    "nameCity": "Timbaúba dos Batistas",
+    "quantityLetters": 21,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3841",
+    "nameCity": "Touros",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3842",
+    "nameCity": "Triunfo Potiguar",
+    "quantityLetters": 16,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3843",
+    "nameCity": "Umarizal",
+    "quantityLetters": 8,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3844",
+    "nameCity": "Upanema",
+    "quantityLetters": 7,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3845",
+    "nameCity": "Várzea",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3846",
+    "nameCity": "Venha-Ver",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3847",
+    "nameCity": "Vera Cruz",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3848",
+    "nameCity": "Viçosa",
+    "quantityLetters": 6,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  },
+  {
+    "id": "3849",
+    "nameCity": "Vila Flor",
+    "quantityLetters": 9,
+    "state": "RN",
+    "nameState": "Rio Grande do Norte",
+    "stateID": "20"
+  }
+]
